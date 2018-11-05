@@ -42,7 +42,11 @@ setup(
         'jupyter',
         'pandas',
         'matplotlib',
+        'cryptography',
         'scrapy',
+        'requests',
+        'xmltodict',
+        'rarfile'
     ],
 
     classifiers=[
