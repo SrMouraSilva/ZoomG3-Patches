@@ -1,0 +1,3850 @@
+{
+  "Modules": {
+    "UNIT1": {
+      "Type": [
+        {
+          "-name": "COMP",
+          "-EfxNoOnMachine": "23",
+          "#text": "G3X_Compressor"
+        },
+        {
+          "-name": "RackComp",
+          "-EfxNoOnMachine": "24",
+          "#text": "G3X_Rack_Comp"
+        },
+        {
+          "-name": "M Comp",
+          "-EfxNoOnMachine": "25",
+          "#text": "G3X_M_Comp"
+        },
+        {
+          "-name": "SlowATTCK",
+          "-EfxNoOnMachine": "26",
+          "#text": "G3X_SlowAttack"
+        },
+        {
+          "-name": "ZNR",
+          "-EfxNoOnMachine": "27",
+          "#text": "G3X_ZNR"
+        },
+        {
+          "-name": "NoiseGate",
+          "-EfxNoOnMachine": "28",
+          "#text": "G3X_NoiseGate"
+        },
+        {
+          "-name": "DirtyGate",
+          "-EfxNoOnMachine": "29",
+          "#text": "G3X_DirtyGate"
+        },
+        {
+          "-name": "GraphicEQ",
+          "-EfxNoOnMachine": "30",
+          "#text": "G3X_GraphicEQ"
+        },
+        {
+          "-name": "ParaEQ",
+          "-EfxNoOnMachine": "31",
+          "#text": "G3X_ParaEQ"
+        },
+        {
+          "-name": "CombFLTR",
+          "-EfxNoOnMachine": "32",
+          "#text": "G3X_CombFilter"
+        },
+        {
+          "-name": "AutoWah",
+          "-EfxNoOnMachine": "33",
+          "#text": "G3X_Autowah"
+        },
+        {
+          "-name": "Resonance",
+          "-EfxNoOnMachine": "34",
+          "#text": "G3X_Auto_Resonance_Filter"
+        },
+        {
+          "-name": "Cry",
+          "-EfxNoOnMachine": "36",
+          "#text": "G3X_Cry"
+        },
+        {
+          "-name": "M-Filter",
+          "-EfxNoOnMachine": "0",
+          "#text": "G3X_M_Filter"
+        },
+        {
+          "-name": "Step",
+          "-EfxNoOnMachine": "35",
+          "#text": "G3X_Step"
+        },
+        {
+          "-name": "SeqFLTR",
+          "-EfxNoOnMachine": "12",
+          "#text": "G3X_SeqFltr"
+        },
+        {
+          "-name": "RndmFLTR",
+          "-EfxNoOnMachine": "13",
+          "#text": "G3X_RndmFltr"
+        },
+        {
+          "-name": "Booster",
+          "-EfxNoOnMachine": "71",
+          "#text": "G3X_Booster"
+        },
+        {
+          "-name": "OverDrive",
+          "-EfxNoOnMachine": "72",
+          "#text": "G3X_OverDrive"
+        },
+        {
+          "-name": "T Scream",
+          "-EfxNoOnMachine": "73",
+          "#text": "G3X_T_SCREAM"
+        },
+        {
+          "-name": "Governor",
+          "-EfxNoOnMachine": "74",
+          "#text": "G3X_Governor"
+        },
+        {
+          "-name": "Dist+",
+          "-EfxNoOnMachine": "75",
+          "#text": "G3X_Dist+"
+        },
+        {
+          "-name": "Dist 1",
+          "-EfxNoOnMachine": "76",
+          "#text": "G3X_Dist1"
+        },
+        {
+          "-name": "Squeak",
+          "-EfxNoOnMachine": "77",
+          "#text": "G3X_SQUEAK"
+        },
+        {
+          "-name": "FuzzSmile",
+          "-EfxNoOnMachine": "78",
+          "#text": "G3X_FuzzSmile"
+        },
+        {
+          "-name": "GreatMuff",
+          "-EfxNoOnMachine": "79",
+          "#text": "G3X_GreatMuff"
+        },
+        {
+          "-name": "MetalWRLD",
+          "-EfxNoOnMachine": "80",
+          "#text": "G3X_MetalWorld"
+        },
+        {
+          "-name": "HotBox",
+          "-EfxNoOnMachine": "81",
+          "#text": "G3X_HotBox"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Clean",
+          "-EfxNoOnMachine": "86",
+          "#text": "G3X_Z_CLEAN"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z MP1",
+          "-EfxNoOnMachine": "87",
+          "#text": "G3X_Z_MP1"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Bottom",
+          "-EfxNoOnMachine": "88",
+          "#text": "G3X_Z_BOTTOM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Dream",
+          "-EfxNoOnMachine": "89",
+          "#text": "G3X_Z_DREAM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Scream",
+          "-EfxNoOnMachine": "90",
+          "#text": "G3X_Z_SCREAM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Neos",
+          "-EfxNoOnMachine": "91",
+          "#text": "G3X_Z_NEOS"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Wild",
+          "-EfxNoOnMachine": "82",
+          "#text": "G3X_Z_WILD"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Lead",
+          "-EfxNoOnMachine": "83",
+          "#text": "G3X_Lead"
+        },
+        {
+          "-modeling": "1",
+          "-name": "ExtremeDS",
+          "-EfxNoOnMachine": "84",
+          "#text": "G3X_ExtremeDS"
+        },
+        {
+          "-name": "Aco.Sim",
+          "-EfxNoOnMachine": "85",
+          "#text": "G3X_AcoSim"
+        },
+        {
+          "-modeling": "1",
+          "-name": "FD COMBO",
+          "-EfxNoOnMachine": "92",
+          "#text": "G3X_FD_Combo"
+        },
+        {
+          "-modeling": "1",
+          "-name": "DELUXE-R",
+          "-EfxNoOnMachine": "111",
+          "#text": "G3X_DELUXE-R"
+        },
+        {
+          "-modeling": "1",
+          "-name": "FD VIBRO",
+          "-EfxNoOnMachine": "104",
+          "#text": "G3X_FD_Vibro"
+        },
+        {
+          "-modeling": "1",
+          "-name": "US BLUES",
+          "-EfxNoOnMachine": "94",
+          "#text": "G3X_US_Blues"
+        },
+        {
+          "-modeling": "1",
+          "-name": "VX COMBO",
+          "-EfxNoOnMachine": "93",
+          "#text": "G3X_VX_Combo"
+        },
+        {
+          "-modeling": "1",
+          "-name": "VX JMI",
+          "-EfxNoOnMachine": "116",
+          "#text": "G3X_VX_JMI"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BG CRUNCH",
+          "-EfxNoOnMachine": "95",
+          "#text": "G3X_BG_Crunch"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MATCH 30",
+          "-EfxNoOnMachine": "103",
+          "#text": "G3X_Match_30"
+        },
+        {
+          "-modeling": "1",
+          "-name": "CAR DRIVE",
+          "-EfxNoOnMachine": "114",
+          "#text": "G3X_CAR_DRIVE"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TW ROCK",
+          "-EfxNoOnMachine": "102",
+          "#text": "G3X_TW_Rock"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TONE CITY",
+          "-EfxNoOnMachine": "108",
+          "#text": "G3X_TONE_CITY"
+        },
+        {
+          "-modeling": "1",
+          "-name": "HW STACK",
+          "-EfxNoOnMachine": "96",
+          "#text": "G3X_HW_Stack"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TANGERINE",
+          "-EfxNoOnMachine": "97",
+          "#text": "G3X_Tangerine"
+        },
+        {
+          "-modeling": "1",
+          "-name": "B-BREAKER",
+          "-EfxNoOnMachine": "109",
+          "#text": "G3X_B-BREAKER"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS CRUNCH",
+          "-EfxNoOnMachine": "98",
+          "#text": "G3X_MS_CRUNCH"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS 1959",
+          "-EfxNoOnMachine": "115",
+          "#text": "G3X_MS_1959"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS DRIVE",
+          "-EfxNoOnMachine": "99",
+          "#text": "G3X_MS_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BGN DRIVE",
+          "-EfxNoOnMachine": "110",
+          "#text": "G3X_BGN_DRV"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BG DRIVE",
+          "-EfxNoOnMachine": "100",
+          "#text": "G3X_BG_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "DZ DRIVE",
+          "-EfxNoOnMachine": "101",
+          "#text": "G3X_DZ_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "ALIEN",
+          "-EfxNoOnMachine": "112",
+          "#text": "G3X_ALIEN"
+        },
+        {
+          "-modeling": "1",
+          "-name": "REVO-1",
+          "-EfxNoOnMachine": "113",
+          "#text": "G3X_REVO-1"
+        },
+        {
+          "-name": "Tremolo",
+          "-EfxNoOnMachine": "38",
+          "#text": "G3X_Tremolo"
+        },
+        {
+          "-name": "Slicer",
+          "-EfxNoOnMachine": "3",
+          "#text": "G3X_Slicer"
+        },
+        {
+          "-name": "Phaser",
+          "-EfxNoOnMachine": "39",
+          "#text": "G3X_Phaser"
+        },
+        {
+          "-name": "DuoPhase",
+          "-EfxNoOnMachine": "10",
+          "#text": "G3X_Duo_Phase"
+        },
+        {
+          "-name": "WarpPhase",
+          "-EfxNoOnMachine": "14",
+          "#text": "G3X_Warp_Phase"
+        },
+        {
+          "-name": "Chorus",
+          "-EfxNoOnMachine": "41",
+          "#text": "G3X_Chorus"
+        },
+        {
+          "-name": "Detune",
+          "-EfxNoOnMachine": "42",
+          "#text": "G3X_Detune"
+        },
+        {
+          "-name": "VintageCE",
+          "-EfxNoOnMachine": "43",
+          "#text": "G3X_VintageCho"
+        },
+        {
+          "-name": "StereoCho",
+          "-EfxNoOnMachine": "44",
+          "#text": "G3X_StereoCho"
+        },
+        {
+          "-name": "Ensemble",
+          "-EfxNoOnMachine": "45",
+          "#text": "G3X_Ensemble"
+        },
+        {
+          "-name": "VinFLNGR",
+          "-EfxNoOnMachine": "46",
+          "#text": "G3X_VinFlanger"
+        },
+        {
+          "-name": "Flanger",
+          "-EfxNoOnMachine": "106",
+          "#text": "G3X_Flanger"
+        },
+        {
+          "-name": "DynaFLNGR",
+          "-EfxNoOnMachine": "47",
+          "#text": "G3X_DynamicFLG"
+        },
+        {
+          "-name": "Vibrato",
+          "-EfxNoOnMachine": "48",
+          "#text": "G3X_Vibrato"
+        },
+        {
+          "-name": "Octave",
+          "-EfxNoOnMachine": "37",
+          "#text": "G3X_Octave"
+        },
+        {
+          "-name": "PitchSHFT",
+          "-EfxNoOnMachine": "49",
+          "#text": "G3X_PitchShift"
+        },
+        {
+          "-name": "MonoPitch",
+          "-EfxNoOnMachine": "51",
+          "#text": "G3X_MonoPitch"
+        },
+        {
+          "-name": "HPS",
+          "-EfxNoOnMachine": "52",
+          "#text": "G3X_HPS"
+        },
+        {
+          "-name": "BendCho",
+          "-EfxNoOnMachine": "50",
+          "#text": "G3X_BendCho"
+        },
+        {
+          "-name": "RingMod",
+          "-EfxNoOnMachine": "40",
+          "#text": "G3X_RingMod"
+        },
+        {
+          "-name": "BitCrush",
+          "-EfxNoOnMachine": "8",
+          "#text": "G3X_BitCrush"
+        },
+        {
+          "-name": "Bomber",
+          "-EfxNoOnMachine": "9",
+          "#text": "G3X_Bomber"
+        },
+        {
+          "-name": "MonoSynth",
+          "-EfxNoOnMachine": "11",
+          "#text": "G3X_MonoSynth"
+        },
+        {
+          "-name": "Z-Organ",
+          "-EfxNoOnMachine": "2",
+          "#text": "G3X_Z_Organ"
+        },
+        {
+          "-name": "Delay",
+          "-EfxNoOnMachine": "53",
+          "#text": "G3X_Delay"
+        },
+        {
+          "-name": "TapeEcho",
+          "-EfxNoOnMachine": "54",
+          "#text": "G3X_TapeEcho"
+        },
+        {
+          "-name": "ModDelay",
+          "-EfxNoOnMachine": "55",
+          "#text": "G3X_ModDelay"
+        },
+        {
+          "-name": "AnalogDly",
+          "-EfxNoOnMachine": "56",
+          "#text": "G3X_AnalogDelay"
+        },
+        {
+          "-name": "ReverseDL",
+          "-EfxNoOnMachine": "57",
+          "#text": "G3X_Reverse"
+        },
+        {
+          "-name": "MultiTapD",
+          "-EfxNoOnMachine": "58",
+          "#text": "G3X_MultiTapDL"
+        },
+        {
+          "-name": "DynaDelay",
+          "-EfxNoOnMachine": "59",
+          "#text": "G3X_DynamicDLY"
+        },
+        {
+          "-name": "FilterDly",
+          "-EfxNoOnMachine": "5",
+          "#text": "G3X_FilterDly"
+        },
+        {
+          "-name": "PitchDly",
+          "-EfxNoOnMachine": "6",
+          "#text": "G3X_PitchDly"
+        },
+        {
+          "-name": "StereoDly",
+          "-EfxNoOnMachine": "7",
+          "#text": "G3X_StereoDly"
+        },
+        {
+          "-name": "PhaseDly",
+          "-EfxNoOnMachine": "4",
+          "#text": "G3X_Pha_Dly"
+        },
+        {
+          "-name": "TrgHldDly",
+          "-EfxNoOnMachine": "15",
+          "#text": "G3X_TrgHldDly"
+        },
+        {
+          "-name": "HD Reverb",
+          "-EfxNoOnMachine": "105",
+          "#text": "G3X_HD_Reverb"
+        },
+        {
+          "-name": "Hall",
+          "-EfxNoOnMachine": "60",
+          "#text": "G3X_Hall"
+        },
+        {
+          "-name": "Room",
+          "-EfxNoOnMachine": "61",
+          "#text": "G3X_Room"
+        },
+        {
+          "-name": "TiledRoom",
+          "-EfxNoOnMachine": "62",
+          "#text": "G3X_TiledRoom"
+        },
+        {
+          "-name": "Spring",
+          "-EfxNoOnMachine": "63",
+          "#text": "G3X_Spring"
+        },
+        {
+          "-name": "Arena",
+          "-EfxNoOnMachine": "64",
+          "#text": "G3X_Arena"
+        },
+        {
+          "-name": "EarlyRef",
+          "-EfxNoOnMachine": "65",
+          "#text": "G3X_EarlyRef"
+        },
+        {
+          "-name": "Air",
+          "-EfxNoOnMachine": "66",
+          "#text": "G3X_Air"
+        },
+        {
+          "-name": "Comp+OD",
+          "-EfxNoOnMachine": "22",
+          "#text": "G3X_Comp+OD"
+        },
+        {
+          "-name": "Comp+Phsr",
+          "-EfxNoOnMachine": "19",
+          "#text": "G3X_Comp+Phsr"
+        },
+        {
+          "-name": "Comp+AWah",
+          "-EfxNoOnMachine": "20",
+          "#text": "G3X_Comp+AWah"
+        },
+        {
+          "-name": "Cho+Dly",
+          "-EfxNoOnMachine": "16",
+          "#text": "G3X_Cho+Dly"
+        },
+        {
+          "-name": "Dly+Rev",
+          "-EfxNoOnMachine": "18",
+          "#text": "G3X_Dly+Rev"
+        },
+        {
+          "-name": "Cho+Rev",
+          "-EfxNoOnMachine": "17",
+          "#text": "G3X_Cho+Rev"
+        },
+        {
+          "-name": "FLG+VCho",
+          "-EfxNoOnMachine": "21",
+          "#text": "G3X_V_Cho+Flg"
+        },
+        {
+          "-name": "PedalVx",
+          "-EfxNoOnMachine": "67",
+          "#text": "G3X_PedalVox"
+        },
+        {
+          "-name": "PedalCry",
+          "-EfxNoOnMachine": "68",
+          "#text": "G3X_PedalCry"
+        },
+        {
+          "-name": "TheVibe",
+          "-EfxNoOnMachine": "1",
+          "#text": "G3X_TheVibe"
+        },
+        {
+          "-name": "PDL Pitch",
+          "-EfxNoOnMachine": "69",
+          "#text": "G3X_PedalPitch"
+        },
+        {
+          "-name": "PDL MnPit",
+          "-EfxNoOnMachine": "70",
+          "#text": "G3X_PdlMnPit"
+        },
+        {
+          "-name": "None",
+          "-EfxNoOnMachine": "107",
+          "-IsTHRU": "1",
+          "-IsDefaultEfx": "1",
+          "#text": "G3X_None"
+        },
+        {
+          "-name": "Unknown",
+          "-NotVisibleToTypeChg": "1",
+          "#text": "G3X_Unknown"
+        }
+      ]
+    },
+    "UNIT2": {
+      "Type": [
+        {
+          "-name": "COMP",
+          "-EfxNoOnMachine": "23",
+          "#text": "G3X_Compressor"
+        },
+        {
+          "-name": "RackComp",
+          "-EfxNoOnMachine": "24",
+          "#text": "G3X_Rack_Comp"
+        },
+        {
+          "-name": "M Comp",
+          "-EfxNoOnMachine": "25",
+          "#text": "G3X_M_Comp"
+        },
+        {
+          "-name": "SlowATTCK",
+          "-EfxNoOnMachine": "26",
+          "#text": "G3X_SlowAttack"
+        },
+        {
+          "-name": "ZNR",
+          "-EfxNoOnMachine": "27",
+          "#text": "G3X_ZNR"
+        },
+        {
+          "-name": "NoiseGate",
+          "-EfxNoOnMachine": "28",
+          "#text": "G3X_NoiseGate"
+        },
+        {
+          "-name": "DirtyGate",
+          "-EfxNoOnMachine": "29",
+          "#text": "G3X_DirtyGate"
+        },
+        {
+          "-name": "GraphicEQ",
+          "-EfxNoOnMachine": "30",
+          "#text": "G3X_GraphicEQ"
+        },
+        {
+          "-name": "ParaEQ",
+          "-EfxNoOnMachine": "31",
+          "#text": "G3X_ParaEQ"
+        },
+        {
+          "-name": "CombFLTR",
+          "-EfxNoOnMachine": "32",
+          "#text": "G3X_CombFilter"
+        },
+        {
+          "-name": "AutoWah",
+          "-EfxNoOnMachine": "33",
+          "#text": "G3X_Autowah"
+        },
+        {
+          "-name": "Resonance",
+          "-EfxNoOnMachine": "34",
+          "#text": "G3X_Auto_Resonance_Filter"
+        },
+        {
+          "-name": "Cry",
+          "-EfxNoOnMachine": "36",
+          "#text": "G3X_Cry"
+        },
+        {
+          "-name": "M-Filter",
+          "-EfxNoOnMachine": "0",
+          "#text": "G3X_M_Filter"
+        },
+        {
+          "-name": "Step",
+          "-EfxNoOnMachine": "35",
+          "#text": "G3X_Step"
+        },
+        {
+          "-name": "SeqFLTR",
+          "-EfxNoOnMachine": "12",
+          "#text": "G3X_SeqFltr"
+        },
+        {
+          "-name": "RndmFLTR",
+          "-EfxNoOnMachine": "13",
+          "#text": "G3X_RndmFltr"
+        },
+        {
+          "-name": "Booster",
+          "-EfxNoOnMachine": "71",
+          "#text": "G3X_Booster"
+        },
+        {
+          "-name": "OverDrive",
+          "-EfxNoOnMachine": "72",
+          "#text": "G3X_OverDrive"
+        },
+        {
+          "-name": "T Scream",
+          "-EfxNoOnMachine": "73",
+          "#text": "G3X_T_SCREAM"
+        },
+        {
+          "-name": "Governor",
+          "-EfxNoOnMachine": "74",
+          "#text": "G3X_Governor"
+        },
+        {
+          "-name": "Dist+",
+          "-EfxNoOnMachine": "75",
+          "#text": "G3X_Dist+"
+        },
+        {
+          "-name": "Dist 1",
+          "-EfxNoOnMachine": "76",
+          "#text": "G3X_Dist1"
+        },
+        {
+          "-name": "Squeak",
+          "-EfxNoOnMachine": "77",
+          "#text": "G3X_SQUEAK"
+        },
+        {
+          "-name": "FuzzSmile",
+          "-EfxNoOnMachine": "78",
+          "#text": "G3X_FuzzSmile"
+        },
+        {
+          "-name": "GreatMuff",
+          "-EfxNoOnMachine": "79",
+          "#text": "G3X_GreatMuff"
+        },
+        {
+          "-name": "MetalWRLD",
+          "-EfxNoOnMachine": "80",
+          "#text": "G3X_MetalWorld"
+        },
+        {
+          "-name": "HotBox",
+          "-EfxNoOnMachine": "81",
+          "#text": "G3X_HotBox"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Clean",
+          "-EfxNoOnMachine": "86",
+          "#text": "G3X_Z_CLEAN"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z MP1",
+          "-EfxNoOnMachine": "87",
+          "#text": "G3X_Z_MP1"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Bottom",
+          "-EfxNoOnMachine": "88",
+          "#text": "G3X_Z_BOTTOM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Dream",
+          "-EfxNoOnMachine": "89",
+          "#text": "G3X_Z_DREAM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Scream",
+          "-EfxNoOnMachine": "90",
+          "#text": "G3X_Z_SCREAM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Neos",
+          "-EfxNoOnMachine": "91",
+          "#text": "G3X_Z_NEOS"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Wild",
+          "-EfxNoOnMachine": "82",
+          "#text": "G3X_Z_WILD"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Lead",
+          "-EfxNoOnMachine": "83",
+          "#text": "G3X_Lead"
+        },
+        {
+          "-modeling": "1",
+          "-name": "ExtremeDS",
+          "-EfxNoOnMachine": "84",
+          "#text": "G3X_ExtremeDS"
+        },
+        {
+          "-name": "Aco.Sim",
+          "-EfxNoOnMachine": "85",
+          "#text": "G3X_AcoSim"
+        },
+        {
+          "-modeling": "1",
+          "-name": "FD COMBO",
+          "-EfxNoOnMachine": "92",
+          "#text": "G3X_FD_Combo"
+        },
+        {
+          "-modeling": "1",
+          "-name": "DELUXE-R",
+          "-EfxNoOnMachine": "111",
+          "#text": "G3X_DELUXE-R"
+        },
+        {
+          "-modeling": "1",
+          "-name": "FD VIBRO",
+          "-EfxNoOnMachine": "104",
+          "#text": "G3X_FD_Vibro"
+        },
+        {
+          "-modeling": "1",
+          "-name": "US BLUES",
+          "-EfxNoOnMachine": "94",
+          "#text": "G3X_US_Blues"
+        },
+        {
+          "-modeling": "1",
+          "-name": "VX COMBO",
+          "-EfxNoOnMachine": "93",
+          "#text": "G3X_VX_Combo"
+        },
+        {
+          "-modeling": "1",
+          "-name": "VX JMI",
+          "-EfxNoOnMachine": "116",
+          "#text": "G3X_VX_JMI"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BG CRUNCH",
+          "-EfxNoOnMachine": "95",
+          "#text": "G3X_BG_Crunch"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MATCH 30",
+          "-EfxNoOnMachine": "103",
+          "#text": "G3X_Match_30"
+        },
+        {
+          "-modeling": "1",
+          "-name": "CAR DRIVE",
+          "-EfxNoOnMachine": "114",
+          "#text": "G3X_CAR_DRIVE"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TW ROCK",
+          "-EfxNoOnMachine": "102",
+          "#text": "G3X_TW_Rock"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TONE CITY",
+          "-EfxNoOnMachine": "108",
+          "#text": "G3X_TONE_CITY"
+        },
+        {
+          "-modeling": "1",
+          "-name": "HW STACK",
+          "-EfxNoOnMachine": "96",
+          "#text": "G3X_HW_Stack"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TANGERINE",
+          "-EfxNoOnMachine": "97",
+          "#text": "G3X_Tangerine"
+        },
+        {
+          "-modeling": "1",
+          "-name": "B-BREAKER",
+          "-EfxNoOnMachine": "109",
+          "#text": "G3X_B-BREAKER"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS CRUNCH",
+          "-EfxNoOnMachine": "98",
+          "#text": "G3X_MS_CRUNCH"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS 1959",
+          "-EfxNoOnMachine": "115",
+          "#text": "G3X_MS_1959"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS DRIVE",
+          "-EfxNoOnMachine": "99",
+          "#text": "G3X_MS_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BGN DRIVE",
+          "-EfxNoOnMachine": "110",
+          "#text": "G3X_BGN_DRV"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BG DRIVE",
+          "-EfxNoOnMachine": "100",
+          "#text": "G3X_BG_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "DZ DRIVE",
+          "-EfxNoOnMachine": "101",
+          "#text": "G3X_DZ_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "ALIEN",
+          "-EfxNoOnMachine": "112",
+          "#text": "G3X_ALIEN"
+        },
+        {
+          "-modeling": "1",
+          "-name": "REVO-1",
+          "-EfxNoOnMachine": "113",
+          "#text": "G3X_REVO-1"
+        },
+        {
+          "-name": "Tremolo",
+          "-EfxNoOnMachine": "38",
+          "#text": "G3X_Tremolo"
+        },
+        {
+          "-name": "Slicer",
+          "-EfxNoOnMachine": "3",
+          "#text": "G3X_Slicer"
+        },
+        {
+          "-name": "Phaser",
+          "-EfxNoOnMachine": "39",
+          "#text": "G3X_Phaser"
+        },
+        {
+          "-name": "DuoPhase",
+          "-EfxNoOnMachine": "10",
+          "#text": "G3X_Duo_Phase"
+        },
+        {
+          "-name": "WarpPhase",
+          "-EfxNoOnMachine": "14",
+          "#text": "G3X_Warp_Phase"
+        },
+        {
+          "-name": "Chorus",
+          "-EfxNoOnMachine": "41",
+          "#text": "G3X_Chorus"
+        },
+        {
+          "-name": "Detune",
+          "-EfxNoOnMachine": "42",
+          "#text": "G3X_Detune"
+        },
+        {
+          "-name": "VintageCE",
+          "-EfxNoOnMachine": "43",
+          "#text": "G3X_VintageCho"
+        },
+        {
+          "-name": "StereoCho",
+          "-EfxNoOnMachine": "44",
+          "#text": "G3X_StereoCho"
+        },
+        {
+          "-name": "Ensemble",
+          "-EfxNoOnMachine": "45",
+          "#text": "G3X_Ensemble"
+        },
+        {
+          "-name": "VinFLNGR",
+          "-EfxNoOnMachine": "46",
+          "#text": "G3X_VinFlanger"
+        },
+        {
+          "-name": "Flanger",
+          "-EfxNoOnMachine": "106",
+          "#text": "G3X_Flanger"
+        },
+        {
+          "-name": "DynaFLNGR",
+          "-EfxNoOnMachine": "47",
+          "#text": "G3X_DynamicFLG"
+        },
+        {
+          "-name": "Vibrato",
+          "-EfxNoOnMachine": "48",
+          "#text": "G3X_Vibrato"
+        },
+        {
+          "-name": "Octave",
+          "-EfxNoOnMachine": "37",
+          "#text": "G3X_Octave"
+        },
+        {
+          "-name": "PitchSHFT",
+          "-EfxNoOnMachine": "49",
+          "#text": "G3X_PitchShift"
+        },
+        {
+          "-name": "MonoPitch",
+          "-EfxNoOnMachine": "51",
+          "#text": "G3X_MonoPitch"
+        },
+        {
+          "-name": "HPS",
+          "-EfxNoOnMachine": "52",
+          "#text": "G3X_HPS"
+        },
+        {
+          "-name": "BendCho",
+          "-EfxNoOnMachine": "50",
+          "#text": "G3X_BendCho"
+        },
+        {
+          "-name": "RingMod",
+          "-EfxNoOnMachine": "40",
+          "#text": "G3X_RingMod"
+        },
+        {
+          "-name": "BitCrush",
+          "-EfxNoOnMachine": "8",
+          "#text": "G3X_BitCrush"
+        },
+        {
+          "-name": "Bomber",
+          "-EfxNoOnMachine": "9",
+          "#text": "G3X_Bomber"
+        },
+        {
+          "-name": "MonoSynth",
+          "-EfxNoOnMachine": "11",
+          "#text": "G3X_MonoSynth"
+        },
+        {
+          "-name": "Z-Organ",
+          "-EfxNoOnMachine": "2",
+          "#text": "G3X_Z_Organ"
+        },
+        {
+          "-name": "Delay",
+          "-EfxNoOnMachine": "53",
+          "#text": "G3X_Delay"
+        },
+        {
+          "-name": "TapeEcho",
+          "-EfxNoOnMachine": "54",
+          "#text": "G3X_TapeEcho"
+        },
+        {
+          "-name": "ModDelay",
+          "-EfxNoOnMachine": "55",
+          "#text": "G3X_ModDelay"
+        },
+        {
+          "-name": "AnalogDly",
+          "-EfxNoOnMachine": "56",
+          "#text": "G3X_AnalogDelay"
+        },
+        {
+          "-name": "ReverseDL",
+          "-EfxNoOnMachine": "57",
+          "#text": "G3X_Reverse"
+        },
+        {
+          "-name": "MultiTapD",
+          "-EfxNoOnMachine": "58",
+          "#text": "G3X_MultiTapDL"
+        },
+        {
+          "-name": "DynaDelay",
+          "-EfxNoOnMachine": "59",
+          "#text": "G3X_DynamicDLY"
+        },
+        {
+          "-name": "FilterDly",
+          "-EfxNoOnMachine": "5",
+          "#text": "G3X_FilterDly"
+        },
+        {
+          "-name": "PitchDly",
+          "-EfxNoOnMachine": "6",
+          "#text": "G3X_PitchDly"
+        },
+        {
+          "-name": "StereoDly",
+          "-EfxNoOnMachine": "7",
+          "#text": "G3X_StereoDly"
+        },
+        {
+          "-name": "PhaseDly",
+          "-EfxNoOnMachine": "4",
+          "#text": "G3X_Pha_Dly"
+        },
+        {
+          "-name": "TrgHldDly",
+          "-EfxNoOnMachine": "15",
+          "#text": "G3X_TrgHldDly"
+        },
+        {
+          "-name": "HD Reverb",
+          "-EfxNoOnMachine": "105",
+          "#text": "G3X_HD_Reverb"
+        },
+        {
+          "-name": "Hall",
+          "-EfxNoOnMachine": "60",
+          "#text": "G3X_Hall"
+        },
+        {
+          "-name": "Room",
+          "-EfxNoOnMachine": "61",
+          "#text": "G3X_Room"
+        },
+        {
+          "-name": "TiledRoom",
+          "-EfxNoOnMachine": "62",
+          "#text": "G3X_TiledRoom"
+        },
+        {
+          "-name": "Spring",
+          "-EfxNoOnMachine": "63",
+          "#text": "G3X_Spring"
+        },
+        {
+          "-name": "Arena",
+          "-EfxNoOnMachine": "64",
+          "#text": "G3X_Arena"
+        },
+        {
+          "-name": "EarlyRef",
+          "-EfxNoOnMachine": "65",
+          "#text": "G3X_EarlyRef"
+        },
+        {
+          "-name": "Air",
+          "-EfxNoOnMachine": "66",
+          "#text": "G3X_Air"
+        },
+        {
+          "-name": "Comp+OD",
+          "-EfxNoOnMachine": "22",
+          "#text": "G3X_Comp+OD"
+        },
+        {
+          "-name": "Comp+Phsr",
+          "-EfxNoOnMachine": "19",
+          "#text": "G3X_Comp+Phsr"
+        },
+        {
+          "-name": "Comp+AWah",
+          "-EfxNoOnMachine": "20",
+          "#text": "G3X_Comp+AWah"
+        },
+        {
+          "-name": "Cho+Dly",
+          "-EfxNoOnMachine": "16",
+          "#text": "G3X_Cho+Dly"
+        },
+        {
+          "-name": "Dly+Rev",
+          "-EfxNoOnMachine": "18",
+          "#text": "G3X_Dly+Rev"
+        },
+        {
+          "-name": "Cho+Rev",
+          "-EfxNoOnMachine": "17",
+          "#text": "G3X_Cho+Rev"
+        },
+        {
+          "-name": "FLG+VCho",
+          "-EfxNoOnMachine": "21",
+          "#text": "G3X_V_Cho+Flg"
+        },
+        {
+          "-name": "PedalVx",
+          "-EfxNoOnMachine": "67",
+          "#text": "G3X_PedalVox"
+        },
+        {
+          "-name": "PedalCry",
+          "-EfxNoOnMachine": "68",
+          "#text": "G3X_PedalCry"
+        },
+        {
+          "-name": "TheVibe",
+          "-EfxNoOnMachine": "1",
+          "#text": "G3X_TheVibe"
+        },
+        {
+          "-name": "PDL Pitch",
+          "-EfxNoOnMachine": "69",
+          "#text": "G3X_PedalPitch"
+        },
+        {
+          "-name": "PDL MnPit",
+          "-EfxNoOnMachine": "70",
+          "#text": "G3X_PdlMnPit"
+        },
+        {
+          "-name": "None",
+          "-EfxNoOnMachine": "107",
+          "-IsTHRU": "1",
+          "-IsDefaultEfx": "1",
+          "#text": "G3X_None"
+        },
+        {
+          "-name": "Unknown",
+          "-NotVisibleToTypeChg": "1",
+          "#text": "G3X_Unknown"
+        }
+      ]
+    },
+    "UNIT3": {
+      "Type": [
+        {
+          "-name": "COMP",
+          "-EfxNoOnMachine": "23",
+          "#text": "G3X_Compressor"
+        },
+        {
+          "-name": "RackComp",
+          "-EfxNoOnMachine": "24",
+          "#text": "G3X_Rack_Comp"
+        },
+        {
+          "-name": "M Comp",
+          "-EfxNoOnMachine": "25",
+          "#text": "G3X_M_Comp"
+        },
+        {
+          "-name": "SlowATTCK",
+          "-EfxNoOnMachine": "26",
+          "#text": "G3X_SlowAttack"
+        },
+        {
+          "-name": "ZNR",
+          "-EfxNoOnMachine": "27",
+          "#text": "G3X_ZNR"
+        },
+        {
+          "-name": "NoiseGate",
+          "-EfxNoOnMachine": "28",
+          "#text": "G3X_NoiseGate"
+        },
+        {
+          "-name": "DirtyGate",
+          "-EfxNoOnMachine": "29",
+          "#text": "G3X_DirtyGate"
+        },
+        {
+          "-name": "GraphicEQ",
+          "-EfxNoOnMachine": "30",
+          "#text": "G3X_GraphicEQ"
+        },
+        {
+          "-name": "ParaEQ",
+          "-EfxNoOnMachine": "31",
+          "#text": "G3X_ParaEQ"
+        },
+        {
+          "-name": "CombFLTR",
+          "-EfxNoOnMachine": "32",
+          "#text": "G3X_CombFilter"
+        },
+        {
+          "-name": "AutoWah",
+          "-EfxNoOnMachine": "33",
+          "#text": "G3X_Autowah"
+        },
+        {
+          "-name": "Resonance",
+          "-EfxNoOnMachine": "34",
+          "#text": "G3X_Auto_Resonance_Filter"
+        },
+        {
+          "-name": "Cry",
+          "-EfxNoOnMachine": "36",
+          "#text": "G3X_Cry"
+        },
+        {
+          "-name": "M-Filter",
+          "-EfxNoOnMachine": "0",
+          "#text": "G3X_M_Filter"
+        },
+        {
+          "-name": "Step",
+          "-EfxNoOnMachine": "35",
+          "#text": "G3X_Step"
+        },
+        {
+          "-name": "SeqFLTR",
+          "-EfxNoOnMachine": "12",
+          "#text": "G3X_SeqFltr"
+        },
+        {
+          "-name": "RndmFLTR",
+          "-EfxNoOnMachine": "13",
+          "#text": "G3X_RndmFltr"
+        },
+        {
+          "-name": "Booster",
+          "-EfxNoOnMachine": "71",
+          "#text": "G3X_Booster"
+        },
+        {
+          "-name": "OverDrive",
+          "-EfxNoOnMachine": "72",
+          "#text": "G3X_OverDrive"
+        },
+        {
+          "-name": "T Scream",
+          "-EfxNoOnMachine": "73",
+          "#text": "G3X_T_SCREAM"
+        },
+        {
+          "-name": "Governor",
+          "-EfxNoOnMachine": "74",
+          "#text": "G3X_Governor"
+        },
+        {
+          "-name": "Dist+",
+          "-EfxNoOnMachine": "75",
+          "#text": "G3X_Dist+"
+        },
+        {
+          "-name": "Dist 1",
+          "-EfxNoOnMachine": "76",
+          "#text": "G3X_Dist1"
+        },
+        {
+          "-name": "Squeak",
+          "-EfxNoOnMachine": "77",
+          "#text": "G3X_SQUEAK"
+        },
+        {
+          "-name": "FuzzSmile",
+          "-EfxNoOnMachine": "78",
+          "#text": "G3X_FuzzSmile"
+        },
+        {
+          "-name": "GreatMuff",
+          "-EfxNoOnMachine": "79",
+          "#text": "G3X_GreatMuff"
+        },
+        {
+          "-name": "MetalWRLD",
+          "-EfxNoOnMachine": "80",
+          "#text": "G3X_MetalWorld"
+        },
+        {
+          "-name": "HotBox",
+          "-EfxNoOnMachine": "81",
+          "#text": "G3X_HotBox"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Clean",
+          "-EfxNoOnMachine": "86",
+          "#text": "G3X_Z_CLEAN"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z MP1",
+          "-EfxNoOnMachine": "87",
+          "#text": "G3X_Z_MP1"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Bottom",
+          "-EfxNoOnMachine": "88",
+          "#text": "G3X_Z_BOTTOM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Dream",
+          "-EfxNoOnMachine": "89",
+          "#text": "G3X_Z_DREAM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Scream",
+          "-EfxNoOnMachine": "90",
+          "#text": "G3X_Z_SCREAM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Neos",
+          "-EfxNoOnMachine": "91",
+          "#text": "G3X_Z_NEOS"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Wild",
+          "-EfxNoOnMachine": "82",
+          "#text": "G3X_Z_WILD"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Lead",
+          "-EfxNoOnMachine": "83",
+          "#text": "G3X_Lead"
+        },
+        {
+          "-modeling": "1",
+          "-name": "ExtremeDS",
+          "-EfxNoOnMachine": "84",
+          "#text": "G3X_ExtremeDS"
+        },
+        {
+          "-name": "Aco.Sim",
+          "-EfxNoOnMachine": "85",
+          "#text": "G3X_AcoSim"
+        },
+        {
+          "-modeling": "1",
+          "-name": "FD COMBO",
+          "-EfxNoOnMachine": "92",
+          "#text": "G3X_FD_Combo"
+        },
+        {
+          "-modeling": "1",
+          "-name": "DELUXE-R",
+          "-EfxNoOnMachine": "111",
+          "#text": "G3X_DELUXE-R"
+        },
+        {
+          "-modeling": "1",
+          "-name": "FD VIBRO",
+          "-EfxNoOnMachine": "104",
+          "#text": "G3X_FD_Vibro"
+        },
+        {
+          "-modeling": "1",
+          "-name": "US BLUES",
+          "-EfxNoOnMachine": "94",
+          "#text": "G3X_US_Blues"
+        },
+        {
+          "-modeling": "1",
+          "-name": "VX COMBO",
+          "-EfxNoOnMachine": "93",
+          "#text": "G3X_VX_Combo"
+        },
+        {
+          "-modeling": "1",
+          "-name": "VX JMI",
+          "-EfxNoOnMachine": "116",
+          "#text": "G3X_VX_JMI"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BG CRUNCH",
+          "-EfxNoOnMachine": "95",
+          "#text": "G3X_BG_Crunch"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MATCH 30",
+          "-EfxNoOnMachine": "103",
+          "#text": "G3X_Match_30"
+        },
+        {
+          "-modeling": "1",
+          "-name": "CAR DRIVE",
+          "-EfxNoOnMachine": "114",
+          "#text": "G3X_CAR_DRIVE"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TW ROCK",
+          "-EfxNoOnMachine": "102",
+          "#text": "G3X_TW_Rock"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TONE CITY",
+          "-EfxNoOnMachine": "108",
+          "#text": "G3X_TONE_CITY"
+        },
+        {
+          "-modeling": "1",
+          "-name": "HW STACK",
+          "-EfxNoOnMachine": "96",
+          "#text": "G3X_HW_Stack"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TANGERINE",
+          "-EfxNoOnMachine": "97",
+          "#text": "G3X_Tangerine"
+        },
+        {
+          "-modeling": "1",
+          "-name": "B-BREAKER",
+          "-EfxNoOnMachine": "109",
+          "#text": "G3X_B-BREAKER"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS CRUNCH",
+          "-EfxNoOnMachine": "98",
+          "#text": "G3X_MS_CRUNCH"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS 1959",
+          "-EfxNoOnMachine": "115",
+          "#text": "G3X_MS_1959"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS DRIVE",
+          "-EfxNoOnMachine": "99",
+          "#text": "G3X_MS_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BGN DRIVE",
+          "-EfxNoOnMachine": "110",
+          "#text": "G3X_BGN_DRV"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BG DRIVE",
+          "-EfxNoOnMachine": "100",
+          "#text": "G3X_BG_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "DZ DRIVE",
+          "-EfxNoOnMachine": "101",
+          "#text": "G3X_DZ_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "ALIEN",
+          "-EfxNoOnMachine": "112",
+          "#text": "G3X_ALIEN"
+        },
+        {
+          "-modeling": "1",
+          "-name": "REVO-1",
+          "-EfxNoOnMachine": "113",
+          "#text": "G3X_REVO-1"
+        },
+        {
+          "-name": "Tremolo",
+          "-EfxNoOnMachine": "38",
+          "#text": "G3X_Tremolo"
+        },
+        {
+          "-name": "Slicer",
+          "-EfxNoOnMachine": "3",
+          "#text": "G3X_Slicer"
+        },
+        {
+          "-name": "Phaser",
+          "-EfxNoOnMachine": "39",
+          "#text": "G3X_Phaser"
+        },
+        {
+          "-name": "DuoPhase",
+          "-EfxNoOnMachine": "10",
+          "#text": "G3X_Duo_Phase"
+        },
+        {
+          "-name": "WarpPhase",
+          "-EfxNoOnMachine": "14",
+          "#text": "G3X_Warp_Phase"
+        },
+        {
+          "-name": "Chorus",
+          "-EfxNoOnMachine": "41",
+          "#text": "G3X_Chorus"
+        },
+        {
+          "-name": "Detune",
+          "-EfxNoOnMachine": "42",
+          "#text": "G3X_Detune"
+        },
+        {
+          "-name": "VintageCE",
+          "-EfxNoOnMachine": "43",
+          "#text": "G3X_VintageCho"
+        },
+        {
+          "-name": "StereoCho",
+          "-EfxNoOnMachine": "44",
+          "#text": "G3X_StereoCho"
+        },
+        {
+          "-name": "Ensemble",
+          "-EfxNoOnMachine": "45",
+          "#text": "G3X_Ensemble"
+        },
+        {
+          "-name": "VinFLNGR",
+          "-EfxNoOnMachine": "46",
+          "#text": "G3X_VinFlanger"
+        },
+        {
+          "-name": "Flanger",
+          "-EfxNoOnMachine": "106",
+          "#text": "G3X_Flanger"
+        },
+        {
+          "-name": "DynaFLNGR",
+          "-EfxNoOnMachine": "47",
+          "#text": "G3X_DynamicFLG"
+        },
+        {
+          "-name": "Vibrato",
+          "-EfxNoOnMachine": "48",
+          "#text": "G3X_Vibrato"
+        },
+        {
+          "-name": "Octave",
+          "-EfxNoOnMachine": "37",
+          "#text": "G3X_Octave"
+        },
+        {
+          "-name": "PitchSHFT",
+          "-EfxNoOnMachine": "49",
+          "#text": "G3X_PitchShift"
+        },
+        {
+          "-name": "MonoPitch",
+          "-EfxNoOnMachine": "51",
+          "#text": "G3X_MonoPitch"
+        },
+        {
+          "-name": "HPS",
+          "-EfxNoOnMachine": "52",
+          "#text": "G3X_HPS"
+        },
+        {
+          "-name": "BendCho",
+          "-EfxNoOnMachine": "50",
+          "#text": "G3X_BendCho"
+        },
+        {
+          "-name": "RingMod",
+          "-EfxNoOnMachine": "40",
+          "#text": "G3X_RingMod"
+        },
+        {
+          "-name": "BitCrush",
+          "-EfxNoOnMachine": "8",
+          "#text": "G3X_BitCrush"
+        },
+        {
+          "-name": "Bomber",
+          "-EfxNoOnMachine": "9",
+          "#text": "G3X_Bomber"
+        },
+        {
+          "-name": "MonoSynth",
+          "-EfxNoOnMachine": "11",
+          "#text": "G3X_MonoSynth"
+        },
+        {
+          "-name": "Z-Organ",
+          "-EfxNoOnMachine": "2",
+          "#text": "G3X_Z_Organ"
+        },
+        {
+          "-name": "Delay",
+          "-EfxNoOnMachine": "53",
+          "#text": "G3X_Delay"
+        },
+        {
+          "-name": "TapeEcho",
+          "-EfxNoOnMachine": "54",
+          "#text": "G3X_TapeEcho"
+        },
+        {
+          "-name": "ModDelay",
+          "-EfxNoOnMachine": "55",
+          "#text": "G3X_ModDelay"
+        },
+        {
+          "-name": "AnalogDly",
+          "-EfxNoOnMachine": "56",
+          "#text": "G3X_AnalogDelay"
+        },
+        {
+          "-name": "ReverseDL",
+          "-EfxNoOnMachine": "57",
+          "#text": "G3X_Reverse"
+        },
+        {
+          "-name": "MultiTapD",
+          "-EfxNoOnMachine": "58",
+          "#text": "G3X_MultiTapDL"
+        },
+        {
+          "-name": "DynaDelay",
+          "-EfxNoOnMachine": "59",
+          "#text": "G3X_DynamicDLY"
+        },
+        {
+          "-name": "FilterDly",
+          "-EfxNoOnMachine": "5",
+          "#text": "G3X_FilterDly"
+        },
+        {
+          "-name": "PitchDly",
+          "-EfxNoOnMachine": "6",
+          "#text": "G3X_PitchDly"
+        },
+        {
+          "-name": "StereoDly",
+          "-EfxNoOnMachine": "7",
+          "#text": "G3X_StereoDly"
+        },
+        {
+          "-name": "PhaseDly",
+          "-EfxNoOnMachine": "4",
+          "#text": "G3X_Pha_Dly"
+        },
+        {
+          "-name": "TrgHldDly",
+          "-EfxNoOnMachine": "15",
+          "#text": "G3X_TrgHldDly"
+        },
+        {
+          "-name": "HD Reverb",
+          "-EfxNoOnMachine": "105",
+          "#text": "G3X_HD_Reverb"
+        },
+        {
+          "-name": "Hall",
+          "-EfxNoOnMachine": "60",
+          "#text": "G3X_Hall"
+        },
+        {
+          "-name": "Room",
+          "-EfxNoOnMachine": "61",
+          "#text": "G3X_Room"
+        },
+        {
+          "-name": "TiledRoom",
+          "-EfxNoOnMachine": "62",
+          "#text": "G3X_TiledRoom"
+        },
+        {
+          "-name": "Spring",
+          "-EfxNoOnMachine": "63",
+          "#text": "G3X_Spring"
+        },
+        {
+          "-name": "Arena",
+          "-EfxNoOnMachine": "64",
+          "#text": "G3X_Arena"
+        },
+        {
+          "-name": "EarlyRef",
+          "-EfxNoOnMachine": "65",
+          "#text": "G3X_EarlyRef"
+        },
+        {
+          "-name": "Air",
+          "-EfxNoOnMachine": "66",
+          "#text": "G3X_Air"
+        },
+        {
+          "-name": "Comp+OD",
+          "-EfxNoOnMachine": "22",
+          "#text": "G3X_Comp+OD"
+        },
+        {
+          "-name": "Comp+Phsr",
+          "-EfxNoOnMachine": "19",
+          "#text": "G3X_Comp+Phsr"
+        },
+        {
+          "-name": "Comp+AWah",
+          "-EfxNoOnMachine": "20",
+          "#text": "G3X_Comp+AWah"
+        },
+        {
+          "-name": "Cho+Dly",
+          "-EfxNoOnMachine": "16",
+          "#text": "G3X_Cho+Dly"
+        },
+        {
+          "-name": "Dly+Rev",
+          "-EfxNoOnMachine": "18",
+          "#text": "G3X_Dly+Rev"
+        },
+        {
+          "-name": "Cho+Rev",
+          "-EfxNoOnMachine": "17",
+          "#text": "G3X_Cho+Rev"
+        },
+        {
+          "-name": "FLG+VCho",
+          "-EfxNoOnMachine": "21",
+          "#text": "G3X_V_Cho+Flg"
+        },
+        {
+          "-name": "PedalVx",
+          "-EfxNoOnMachine": "67",
+          "#text": "G3X_PedalVox"
+        },
+        {
+          "-name": "PedalCry",
+          "-EfxNoOnMachine": "68",
+          "#text": "G3X_PedalCry"
+        },
+        {
+          "-name": "TheVibe",
+          "-EfxNoOnMachine": "1",
+          "#text": "G3X_TheVibe"
+        },
+        {
+          "-name": "PDL Pitch",
+          "-EfxNoOnMachine": "69",
+          "#text": "G3X_PedalPitch"
+        },
+        {
+          "-name": "PDL MnPit",
+          "-EfxNoOnMachine": "70",
+          "#text": "G3X_PdlMnPit"
+        },
+        {
+          "-name": "None",
+          "-EfxNoOnMachine": "107",
+          "-IsTHRU": "1",
+          "-IsDefaultEfx": "1",
+          "#text": "G3X_None"
+        },
+        {
+          "-name": "Unknown",
+          "-NotVisibleToTypeChg": "1",
+          "#text": "G3X_Unknown"
+        }
+      ]
+    },
+    "UNIT4": {
+      "Type": [
+        {
+          "-name": "COMP",
+          "-EfxNoOnMachine": "23",
+          "#text": "G3X_Compressor"
+        },
+        {
+          "-name": "RackComp",
+          "-EfxNoOnMachine": "24",
+          "#text": "G3X_Rack_Comp"
+        },
+        {
+          "-name": "M Comp",
+          "-EfxNoOnMachine": "25",
+          "#text": "G3X_M_Comp"
+        },
+        {
+          "-name": "SlowATTCK",
+          "-EfxNoOnMachine": "26",
+          "#text": "G3X_SlowAttack"
+        },
+        {
+          "-name": "ZNR",
+          "-EfxNoOnMachine": "27",
+          "#text": "G3X_ZNR"
+        },
+        {
+          "-name": "NoiseGate",
+          "-EfxNoOnMachine": "28",
+          "#text": "G3X_NoiseGate"
+        },
+        {
+          "-name": "DirtyGate",
+          "-EfxNoOnMachine": "29",
+          "#text": "G3X_DirtyGate"
+        },
+        {
+          "-name": "GraphicEQ",
+          "-EfxNoOnMachine": "30",
+          "#text": "G3X_GraphicEQ"
+        },
+        {
+          "-name": "ParaEQ",
+          "-EfxNoOnMachine": "31",
+          "#text": "G3X_ParaEQ"
+        },
+        {
+          "-name": "CombFLTR",
+          "-EfxNoOnMachine": "32",
+          "#text": "G3X_CombFilter"
+        },
+        {
+          "-name": "AutoWah",
+          "-EfxNoOnMachine": "33",
+          "#text": "G3X_Autowah"
+        },
+        {
+          "-name": "Resonance",
+          "-EfxNoOnMachine": "34",
+          "#text": "G3X_Auto_Resonance_Filter"
+        },
+        {
+          "-name": "Cry",
+          "-EfxNoOnMachine": "36",
+          "#text": "G3X_Cry"
+        },
+        {
+          "-name": "M-Filter",
+          "-EfxNoOnMachine": "0",
+          "#text": "G3X_M_Filter"
+        },
+        {
+          "-name": "Step",
+          "-EfxNoOnMachine": "35",
+          "#text": "G3X_Step"
+        },
+        {
+          "-name": "SeqFLTR",
+          "-EfxNoOnMachine": "12",
+          "#text": "G3X_SeqFltr"
+        },
+        {
+          "-name": "RndmFLTR",
+          "-EfxNoOnMachine": "13",
+          "#text": "G3X_RndmFltr"
+        },
+        {
+          "-name": "Booster",
+          "-EfxNoOnMachine": "71",
+          "#text": "G3X_Booster"
+        },
+        {
+          "-name": "OverDrive",
+          "-EfxNoOnMachine": "72",
+          "#text": "G3X_OverDrive"
+        },
+        {
+          "-name": "T Scream",
+          "-EfxNoOnMachine": "73",
+          "#text": "G3X_T_SCREAM"
+        },
+        {
+          "-name": "Governor",
+          "-EfxNoOnMachine": "74",
+          "#text": "G3X_Governor"
+        },
+        {
+          "-name": "Dist+",
+          "-EfxNoOnMachine": "75",
+          "#text": "G3X_Dist+"
+        },
+        {
+          "-name": "Dist 1",
+          "-EfxNoOnMachine": "76",
+          "#text": "G3X_Dist1"
+        },
+        {
+          "-name": "Squeak",
+          "-EfxNoOnMachine": "77",
+          "#text": "G3X_SQUEAK"
+        },
+        {
+          "-name": "FuzzSmile",
+          "-EfxNoOnMachine": "78",
+          "#text": "G3X_FuzzSmile"
+        },
+        {
+          "-name": "GreatMuff",
+          "-EfxNoOnMachine": "79",
+          "#text": "G3X_GreatMuff"
+        },
+        {
+          "-name": "MetalWRLD",
+          "-EfxNoOnMachine": "80",
+          "#text": "G3X_MetalWorld"
+        },
+        {
+          "-name": "HotBox",
+          "-EfxNoOnMachine": "81",
+          "#text": "G3X_HotBox"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Clean",
+          "-EfxNoOnMachine": "86",
+          "#text": "G3X_Z_CLEAN"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z MP1",
+          "-EfxNoOnMachine": "87",
+          "#text": "G3X_Z_MP1"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Bottom",
+          "-EfxNoOnMachine": "88",
+          "#text": "G3X_Z_BOTTOM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Dream",
+          "-EfxNoOnMachine": "89",
+          "#text": "G3X_Z_DREAM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Scream",
+          "-EfxNoOnMachine": "90",
+          "#text": "G3X_Z_SCREAM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Neos",
+          "-EfxNoOnMachine": "91",
+          "#text": "G3X_Z_NEOS"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Wild",
+          "-EfxNoOnMachine": "82",
+          "#text": "G3X_Z_WILD"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Lead",
+          "-EfxNoOnMachine": "83",
+          "#text": "G3X_Lead"
+        },
+        {
+          "-modeling": "1",
+          "-name": "ExtremeDS",
+          "-EfxNoOnMachine": "84",
+          "#text": "G3X_ExtremeDS"
+        },
+        {
+          "-name": "Aco.Sim",
+          "-EfxNoOnMachine": "85",
+          "#text": "G3X_AcoSim"
+        },
+        {
+          "-modeling": "1",
+          "-name": "FD COMBO",
+          "-EfxNoOnMachine": "92",
+          "#text": "G3X_FD_Combo"
+        },
+        {
+          "-modeling": "1",
+          "-name": "DELUXE-R",
+          "-EfxNoOnMachine": "111",
+          "#text": "G3X_DELUXE-R"
+        },
+        {
+          "-modeling": "1",
+          "-name": "FD VIBRO",
+          "-EfxNoOnMachine": "104",
+          "#text": "G3X_FD_Vibro"
+        },
+        {
+          "-modeling": "1",
+          "-name": "US BLUES",
+          "-EfxNoOnMachine": "94",
+          "#text": "G3X_US_Blues"
+        },
+        {
+          "-modeling": "1",
+          "-name": "VX COMBO",
+          "-EfxNoOnMachine": "93",
+          "#text": "G3X_VX_Combo"
+        },
+        {
+          "-modeling": "1",
+          "-name": "VX JMI",
+          "-EfxNoOnMachine": "116",
+          "#text": "G3X_VX_JMI"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BG CRUNCH",
+          "-EfxNoOnMachine": "95",
+          "#text": "G3X_BG_Crunch"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MATCH 30",
+          "-EfxNoOnMachine": "103",
+          "#text": "G3X_Match_30"
+        },
+        {
+          "-modeling": "1",
+          "-name": "CAR DRIVE",
+          "-EfxNoOnMachine": "114",
+          "#text": "G3X_CAR_DRIVE"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TW ROCK",
+          "-EfxNoOnMachine": "102",
+          "#text": "G3X_TW_Rock"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TONE CITY",
+          "-EfxNoOnMachine": "108",
+          "#text": "G3X_TONE_CITY"
+        },
+        {
+          "-modeling": "1",
+          "-name": "HW STACK",
+          "-EfxNoOnMachine": "96",
+          "#text": "G3X_HW_Stack"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TANGERINE",
+          "-EfxNoOnMachine": "97",
+          "#text": "G3X_Tangerine"
+        },
+        {
+          "-modeling": "1",
+          "-name": "B-BREAKER",
+          "-EfxNoOnMachine": "109",
+          "#text": "G3X_B-BREAKER"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS CRUNCH",
+          "-EfxNoOnMachine": "98",
+          "#text": "G3X_MS_CRUNCH"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS 1959",
+          "-EfxNoOnMachine": "115",
+          "#text": "G3X_MS_1959"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS DRIVE",
+          "-EfxNoOnMachine": "99",
+          "#text": "G3X_MS_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BGN DRIVE",
+          "-EfxNoOnMachine": "110",
+          "#text": "G3X_BGN_DRV"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BG DRIVE",
+          "-EfxNoOnMachine": "100",
+          "#text": "G3X_BG_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "DZ DRIVE",
+          "-EfxNoOnMachine": "101",
+          "#text": "G3X_DZ_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "ALIEN",
+          "-EfxNoOnMachine": "112",
+          "#text": "G3X_ALIEN"
+        },
+        {
+          "-modeling": "1",
+          "-name": "REVO-1",
+          "-EfxNoOnMachine": "113",
+          "#text": "G3X_REVO-1"
+        },
+        {
+          "-name": "Tremolo",
+          "-EfxNoOnMachine": "38",
+          "#text": "G3X_Tremolo"
+        },
+        {
+          "-name": "Slicer",
+          "-EfxNoOnMachine": "3",
+          "#text": "G3X_Slicer"
+        },
+        {
+          "-name": "Phaser",
+          "-EfxNoOnMachine": "39",
+          "#text": "G3X_Phaser"
+        },
+        {
+          "-name": "DuoPhase",
+          "-EfxNoOnMachine": "10",
+          "#text": "G3X_Duo_Phase"
+        },
+        {
+          "-name": "WarpPhase",
+          "-EfxNoOnMachine": "14",
+          "#text": "G3X_Warp_Phase"
+        },
+        {
+          "-name": "Chorus",
+          "-EfxNoOnMachine": "41",
+          "#text": "G3X_Chorus"
+        },
+        {
+          "-name": "Detune",
+          "-EfxNoOnMachine": "42",
+          "#text": "G3X_Detune"
+        },
+        {
+          "-name": "VintageCE",
+          "-EfxNoOnMachine": "43",
+          "#text": "G3X_VintageCho"
+        },
+        {
+          "-name": "StereoCho",
+          "-EfxNoOnMachine": "44",
+          "#text": "G3X_StereoCho"
+        },
+        {
+          "-name": "Ensemble",
+          "-EfxNoOnMachine": "45",
+          "#text": "G3X_Ensemble"
+        },
+        {
+          "-name": "VinFLNGR",
+          "-EfxNoOnMachine": "46",
+          "#text": "G3X_VinFlanger"
+        },
+        {
+          "-name": "Flanger",
+          "-EfxNoOnMachine": "106",
+          "#text": "G3X_Flanger"
+        },
+        {
+          "-name": "DynaFLNGR",
+          "-EfxNoOnMachine": "47",
+          "#text": "G3X_DynamicFLG"
+        },
+        {
+          "-name": "Vibrato",
+          "-EfxNoOnMachine": "48",
+          "#text": "G3X_Vibrato"
+        },
+        {
+          "-name": "Octave",
+          "-EfxNoOnMachine": "37",
+          "#text": "G3X_Octave"
+        },
+        {
+          "-name": "PitchSHFT",
+          "-EfxNoOnMachine": "49",
+          "#text": "G3X_PitchShift"
+        },
+        {
+          "-name": "MonoPitch",
+          "-EfxNoOnMachine": "51",
+          "#text": "G3X_MonoPitch"
+        },
+        {
+          "-name": "HPS",
+          "-EfxNoOnMachine": "52",
+          "#text": "G3X_HPS"
+        },
+        {
+          "-name": "BendCho",
+          "-EfxNoOnMachine": "50",
+          "#text": "G3X_BendCho"
+        },
+        {
+          "-name": "RingMod",
+          "-EfxNoOnMachine": "40",
+          "#text": "G3X_RingMod"
+        },
+        {
+          "-name": "BitCrush",
+          "-EfxNoOnMachine": "8",
+          "#text": "G3X_BitCrush"
+        },
+        {
+          "-name": "Bomber",
+          "-EfxNoOnMachine": "9",
+          "#text": "G3X_Bomber"
+        },
+        {
+          "-name": "MonoSynth",
+          "-EfxNoOnMachine": "11",
+          "#text": "G3X_MonoSynth"
+        },
+        {
+          "-name": "Z-Organ",
+          "-EfxNoOnMachine": "2",
+          "#text": "G3X_Z_Organ"
+        },
+        {
+          "-name": "Delay",
+          "-EfxNoOnMachine": "53",
+          "#text": "G3X_Delay"
+        },
+        {
+          "-name": "TapeEcho",
+          "-EfxNoOnMachine": "54",
+          "#text": "G3X_TapeEcho"
+        },
+        {
+          "-name": "ModDelay",
+          "-EfxNoOnMachine": "55",
+          "#text": "G3X_ModDelay"
+        },
+        {
+          "-name": "AnalogDly",
+          "-EfxNoOnMachine": "56",
+          "#text": "G3X_AnalogDelay"
+        },
+        {
+          "-name": "ReverseDL",
+          "-EfxNoOnMachine": "57",
+          "#text": "G3X_Reverse"
+        },
+        {
+          "-name": "MultiTapD",
+          "-EfxNoOnMachine": "58",
+          "#text": "G3X_MultiTapDL"
+        },
+        {
+          "-name": "DynaDelay",
+          "-EfxNoOnMachine": "59",
+          "#text": "G3X_DynamicDLY"
+        },
+        {
+          "-name": "FilterDly",
+          "-EfxNoOnMachine": "5",
+          "#text": "G3X_FilterDly"
+        },
+        {
+          "-name": "PitchDly",
+          "-EfxNoOnMachine": "6",
+          "#text": "G3X_PitchDly"
+        },
+        {
+          "-name": "StereoDly",
+          "-EfxNoOnMachine": "7",
+          "#text": "G3X_StereoDly"
+        },
+        {
+          "-name": "PhaseDly",
+          "-EfxNoOnMachine": "4",
+          "#text": "G3X_Pha_Dly"
+        },
+        {
+          "-name": "TrgHldDly",
+          "-EfxNoOnMachine": "15",
+          "#text": "G3X_TrgHldDly"
+        },
+        {
+          "-name": "HD Reverb",
+          "-EfxNoOnMachine": "105",
+          "#text": "G3X_HD_Reverb"
+        },
+        {
+          "-name": "Hall",
+          "-EfxNoOnMachine": "60",
+          "#text": "G3X_Hall"
+        },
+        {
+          "-name": "Room",
+          "-EfxNoOnMachine": "61",
+          "#text": "G3X_Room"
+        },
+        {
+          "-name": "TiledRoom",
+          "-EfxNoOnMachine": "62",
+          "#text": "G3X_TiledRoom"
+        },
+        {
+          "-name": "Spring",
+          "-EfxNoOnMachine": "63",
+          "#text": "G3X_Spring"
+        },
+        {
+          "-name": "Arena",
+          "-EfxNoOnMachine": "64",
+          "#text": "G3X_Arena"
+        },
+        {
+          "-name": "EarlyRef",
+          "-EfxNoOnMachine": "65",
+          "#text": "G3X_EarlyRef"
+        },
+        {
+          "-name": "Air",
+          "-EfxNoOnMachine": "66",
+          "#text": "G3X_Air"
+        },
+        {
+          "-name": "Comp+OD",
+          "-EfxNoOnMachine": "22",
+          "#text": "G3X_Comp+OD"
+        },
+        {
+          "-name": "Comp+Phsr",
+          "-EfxNoOnMachine": "19",
+          "#text": "G3X_Comp+Phsr"
+        },
+        {
+          "-name": "Comp+AWah",
+          "-EfxNoOnMachine": "20",
+          "#text": "G3X_Comp+AWah"
+        },
+        {
+          "-name": "Cho+Dly",
+          "-EfxNoOnMachine": "16",
+          "#text": "G3X_Cho+Dly"
+        },
+        {
+          "-name": "Dly+Rev",
+          "-EfxNoOnMachine": "18",
+          "#text": "G3X_Dly+Rev"
+        },
+        {
+          "-name": "Cho+Rev",
+          "-EfxNoOnMachine": "17",
+          "#text": "G3X_Cho+Rev"
+        },
+        {
+          "-name": "FLG+VCho",
+          "-EfxNoOnMachine": "21",
+          "#text": "G3X_V_Cho+Flg"
+        },
+        {
+          "-name": "PedalVx",
+          "-EfxNoOnMachine": "67",
+          "#text": "G3X_PedalVox"
+        },
+        {
+          "-name": "PedalCry",
+          "-EfxNoOnMachine": "68",
+          "#text": "G3X_PedalCry"
+        },
+        {
+          "-name": "TheVibe",
+          "-EfxNoOnMachine": "1",
+          "#text": "G3X_TheVibe"
+        },
+        {
+          "-name": "PDL Pitch",
+          "-EfxNoOnMachine": "69",
+          "#text": "G3X_PedalPitch"
+        },
+        {
+          "-name": "PDL MnPit",
+          "-EfxNoOnMachine": "70",
+          "#text": "G3X_PdlMnPit"
+        },
+        {
+          "-name": "None",
+          "-EfxNoOnMachine": "107",
+          "-IsTHRU": "1",
+          "-IsDefaultEfx": "1",
+          "#text": "G3X_None"
+        },
+        {
+          "-name": "Unknown",
+          "-NotVisibleToTypeChg": "1",
+          "#text": "G3X_Unknown"
+        }
+      ]
+    },
+    "UNIT5": {
+      "Type": [
+        {
+          "-name": "COMP",
+          "-EfxNoOnMachine": "23",
+          "#text": "G3X_Compressor"
+        },
+        {
+          "-name": "RackComp",
+          "-EfxNoOnMachine": "24",
+          "#text": "G3X_Rack_Comp"
+        },
+        {
+          "-name": "M Comp",
+          "-EfxNoOnMachine": "25",
+          "#text": "G3X_M_Comp"
+        },
+        {
+          "-name": "SlowATTCK",
+          "-EfxNoOnMachine": "26",
+          "#text": "G3X_SlowAttack"
+        },
+        {
+          "-name": "ZNR",
+          "-EfxNoOnMachine": "27",
+          "#text": "G3X_ZNR"
+        },
+        {
+          "-name": "NoiseGate",
+          "-EfxNoOnMachine": "28",
+          "#text": "G3X_NoiseGate"
+        },
+        {
+          "-name": "DirtyGate",
+          "-EfxNoOnMachine": "29",
+          "#text": "G3X_DirtyGate"
+        },
+        {
+          "-name": "GraphicEQ",
+          "-EfxNoOnMachine": "30",
+          "#text": "G3X_GraphicEQ"
+        },
+        {
+          "-name": "ParaEQ",
+          "-EfxNoOnMachine": "31",
+          "#text": "G3X_ParaEQ"
+        },
+        {
+          "-name": "CombFLTR",
+          "-EfxNoOnMachine": "32",
+          "#text": "G3X_CombFilter"
+        },
+        {
+          "-name": "AutoWah",
+          "-EfxNoOnMachine": "33",
+          "#text": "G3X_Autowah"
+        },
+        {
+          "-name": "Resonance",
+          "-EfxNoOnMachine": "34",
+          "#text": "G3X_Auto_Resonance_Filter"
+        },
+        {
+          "-name": "Cry",
+          "-EfxNoOnMachine": "36",
+          "#text": "G3X_Cry"
+        },
+        {
+          "-name": "M-Filter",
+          "-EfxNoOnMachine": "0",
+          "#text": "G3X_M_Filter"
+        },
+        {
+          "-name": "Step",
+          "-EfxNoOnMachine": "35",
+          "#text": "G3X_Step"
+        },
+        {
+          "-name": "SeqFLTR",
+          "-EfxNoOnMachine": "12",
+          "#text": "G3X_SeqFltr"
+        },
+        {
+          "-name": "RndmFLTR",
+          "-EfxNoOnMachine": "13",
+          "#text": "G3X_RndmFltr"
+        },
+        {
+          "-name": "Booster",
+          "-EfxNoOnMachine": "71",
+          "#text": "G3X_Booster"
+        },
+        {
+          "-name": "OverDrive",
+          "-EfxNoOnMachine": "72",
+          "#text": "G3X_OverDrive"
+        },
+        {
+          "-name": "T Scream",
+          "-EfxNoOnMachine": "73",
+          "#text": "G3X_T_SCREAM"
+        },
+        {
+          "-name": "Governor",
+          "-EfxNoOnMachine": "74",
+          "#text": "G3X_Governor"
+        },
+        {
+          "-name": "Dist+",
+          "-EfxNoOnMachine": "75",
+          "#text": "G3X_Dist+"
+        },
+        {
+          "-name": "Dist 1",
+          "-EfxNoOnMachine": "76",
+          "#text": "G3X_Dist1"
+        },
+        {
+          "-name": "Squeak",
+          "-EfxNoOnMachine": "77",
+          "#text": "G3X_SQUEAK"
+        },
+        {
+          "-name": "FuzzSmile",
+          "-EfxNoOnMachine": "78",
+          "#text": "G3X_FuzzSmile"
+        },
+        {
+          "-name": "GreatMuff",
+          "-EfxNoOnMachine": "79",
+          "#text": "G3X_GreatMuff"
+        },
+        {
+          "-name": "MetalWRLD",
+          "-EfxNoOnMachine": "80",
+          "#text": "G3X_MetalWorld"
+        },
+        {
+          "-name": "HotBox",
+          "-EfxNoOnMachine": "81",
+          "#text": "G3X_HotBox"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Clean",
+          "-EfxNoOnMachine": "86",
+          "#text": "G3X_Z_CLEAN"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z MP1",
+          "-EfxNoOnMachine": "87",
+          "#text": "G3X_Z_MP1"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Bottom",
+          "-EfxNoOnMachine": "88",
+          "#text": "G3X_Z_BOTTOM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Dream",
+          "-EfxNoOnMachine": "89",
+          "#text": "G3X_Z_DREAM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Scream",
+          "-EfxNoOnMachine": "90",
+          "#text": "G3X_Z_SCREAM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Neos",
+          "-EfxNoOnMachine": "91",
+          "#text": "G3X_Z_NEOS"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Wild",
+          "-EfxNoOnMachine": "82",
+          "#text": "G3X_Z_WILD"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Lead",
+          "-EfxNoOnMachine": "83",
+          "#text": "G3X_Lead"
+        },
+        {
+          "-modeling": "1",
+          "-name": "ExtremeDS",
+          "-EfxNoOnMachine": "84",
+          "#text": "G3X_ExtremeDS"
+        },
+        {
+          "-name": "Aco.Sim",
+          "-EfxNoOnMachine": "85",
+          "#text": "G3X_AcoSim"
+        },
+        {
+          "-modeling": "1",
+          "-name": "FD COMBO",
+          "-EfxNoOnMachine": "92",
+          "#text": "G3X_FD_Combo"
+        },
+        {
+          "-modeling": "1",
+          "-name": "DELUXE-R",
+          "-EfxNoOnMachine": "111",
+          "#text": "G3X_DELUXE-R"
+        },
+        {
+          "-modeling": "1",
+          "-name": "FD VIBRO",
+          "-EfxNoOnMachine": "104",
+          "#text": "G3X_FD_Vibro"
+        },
+        {
+          "-modeling": "1",
+          "-name": "US BLUES",
+          "-EfxNoOnMachine": "94",
+          "#text": "G3X_US_Blues"
+        },
+        {
+          "-modeling": "1",
+          "-name": "VX COMBO",
+          "-EfxNoOnMachine": "93",
+          "#text": "G3X_VX_Combo"
+        },
+        {
+          "-modeling": "1",
+          "-name": "VX JMI",
+          "-EfxNoOnMachine": "116",
+          "#text": "G3X_VX_JMI"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BG CRUNCH",
+          "-EfxNoOnMachine": "95",
+          "#text": "G3X_BG_Crunch"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MATCH 30",
+          "-EfxNoOnMachine": "103",
+          "#text": "G3X_Match_30"
+        },
+        {
+          "-modeling": "1",
+          "-name": "CAR DRIVE",
+          "-EfxNoOnMachine": "114",
+          "#text": "G3X_CAR_DRIVE"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TW ROCK",
+          "-EfxNoOnMachine": "102",
+          "#text": "G3X_TW_Rock"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TONE CITY",
+          "-EfxNoOnMachine": "108",
+          "#text": "G3X_TONE_CITY"
+        },
+        {
+          "-modeling": "1",
+          "-name": "HW STACK",
+          "-EfxNoOnMachine": "96",
+          "#text": "G3X_HW_Stack"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TANGERINE",
+          "-EfxNoOnMachine": "97",
+          "#text": "G3X_Tangerine"
+        },
+        {
+          "-modeling": "1",
+          "-name": "B-BREAKER",
+          "-EfxNoOnMachine": "109",
+          "#text": "G3X_B-BREAKER"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS CRUNCH",
+          "-EfxNoOnMachine": "98",
+          "#text": "G3X_MS_CRUNCH"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS 1959",
+          "-EfxNoOnMachine": "115",
+          "#text": "G3X_MS_1959"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS DRIVE",
+          "-EfxNoOnMachine": "99",
+          "#text": "G3X_MS_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BGN DRIVE",
+          "-EfxNoOnMachine": "110",
+          "#text": "G3X_BGN_DRV"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BG DRIVE",
+          "-EfxNoOnMachine": "100",
+          "#text": "G3X_BG_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "DZ DRIVE",
+          "-EfxNoOnMachine": "101",
+          "#text": "G3X_DZ_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "ALIEN",
+          "-EfxNoOnMachine": "112",
+          "#text": "G3X_ALIEN"
+        },
+        {
+          "-modeling": "1",
+          "-name": "REVO-1",
+          "-EfxNoOnMachine": "113",
+          "#text": "G3X_REVO-1"
+        },
+        {
+          "-name": "Tremolo",
+          "-EfxNoOnMachine": "38",
+          "#text": "G3X_Tremolo"
+        },
+        {
+          "-name": "Slicer",
+          "-EfxNoOnMachine": "3",
+          "#text": "G3X_Slicer"
+        },
+        {
+          "-name": "Phaser",
+          "-EfxNoOnMachine": "39",
+          "#text": "G3X_Phaser"
+        },
+        {
+          "-name": "DuoPhase",
+          "-EfxNoOnMachine": "10",
+          "#text": "G3X_Duo_Phase"
+        },
+        {
+          "-name": "WarpPhase",
+          "-EfxNoOnMachine": "14",
+          "#text": "G3X_Warp_Phase"
+        },
+        {
+          "-name": "Chorus",
+          "-EfxNoOnMachine": "41",
+          "#text": "G3X_Chorus"
+        },
+        {
+          "-name": "Detune",
+          "-EfxNoOnMachine": "42",
+          "#text": "G3X_Detune"
+        },
+        {
+          "-name": "VintageCE",
+          "-EfxNoOnMachine": "43",
+          "#text": "G3X_VintageCho"
+        },
+        {
+          "-name": "StereoCho",
+          "-EfxNoOnMachine": "44",
+          "#text": "G3X_StereoCho"
+        },
+        {
+          "-name": "Ensemble",
+          "-EfxNoOnMachine": "45",
+          "#text": "G3X_Ensemble"
+        },
+        {
+          "-name": "VinFLNGR",
+          "-EfxNoOnMachine": "46",
+          "#text": "G3X_VinFlanger"
+        },
+        {
+          "-name": "Flanger",
+          "-EfxNoOnMachine": "106",
+          "#text": "G3X_Flanger"
+        },
+        {
+          "-name": "DynaFLNGR",
+          "-EfxNoOnMachine": "47",
+          "#text": "G3X_DynamicFLG"
+        },
+        {
+          "-name": "Vibrato",
+          "-EfxNoOnMachine": "48",
+          "#text": "G3X_Vibrato"
+        },
+        {
+          "-name": "Octave",
+          "-EfxNoOnMachine": "37",
+          "#text": "G3X_Octave"
+        },
+        {
+          "-name": "PitchSHFT",
+          "-EfxNoOnMachine": "49",
+          "#text": "G3X_PitchShift"
+        },
+        {
+          "-name": "MonoPitch",
+          "-EfxNoOnMachine": "51",
+          "#text": "G3X_MonoPitch"
+        },
+        {
+          "-name": "HPS",
+          "-EfxNoOnMachine": "52",
+          "#text": "G3X_HPS"
+        },
+        {
+          "-name": "BendCho",
+          "-EfxNoOnMachine": "50",
+          "#text": "G3X_BendCho"
+        },
+        {
+          "-name": "RingMod",
+          "-EfxNoOnMachine": "40",
+          "#text": "G3X_RingMod"
+        },
+        {
+          "-name": "BitCrush",
+          "-EfxNoOnMachine": "8",
+          "#text": "G3X_BitCrush"
+        },
+        {
+          "-name": "Bomber",
+          "-EfxNoOnMachine": "9",
+          "#text": "G3X_Bomber"
+        },
+        {
+          "-name": "MonoSynth",
+          "-EfxNoOnMachine": "11",
+          "#text": "G3X_MonoSynth"
+        },
+        {
+          "-name": "Z-Organ",
+          "-EfxNoOnMachine": "2",
+          "#text": "G3X_Z_Organ"
+        },
+        {
+          "-name": "Delay",
+          "-EfxNoOnMachine": "53",
+          "#text": "G3X_Delay"
+        },
+        {
+          "-name": "TapeEcho",
+          "-EfxNoOnMachine": "54",
+          "#text": "G3X_TapeEcho"
+        },
+        {
+          "-name": "ModDelay",
+          "-EfxNoOnMachine": "55",
+          "#text": "G3X_ModDelay"
+        },
+        {
+          "-name": "AnalogDly",
+          "-EfxNoOnMachine": "56",
+          "#text": "G3X_AnalogDelay"
+        },
+        {
+          "-name": "ReverseDL",
+          "-EfxNoOnMachine": "57",
+          "#text": "G3X_Reverse"
+        },
+        {
+          "-name": "MultiTapD",
+          "-EfxNoOnMachine": "58",
+          "#text": "G3X_MultiTapDL"
+        },
+        {
+          "-name": "DynaDelay",
+          "-EfxNoOnMachine": "59",
+          "#text": "G3X_DynamicDLY"
+        },
+        {
+          "-name": "FilterDly",
+          "-EfxNoOnMachine": "5",
+          "#text": "G3X_FilterDly"
+        },
+        {
+          "-name": "PitchDly",
+          "-EfxNoOnMachine": "6",
+          "#text": "G3X_PitchDly"
+        },
+        {
+          "-name": "StereoDly",
+          "-EfxNoOnMachine": "7",
+          "#text": "G3X_StereoDly"
+        },
+        {
+          "-name": "PhaseDly",
+          "-EfxNoOnMachine": "4",
+          "#text": "G3X_Pha_Dly"
+        },
+        {
+          "-name": "TrgHldDly",
+          "-EfxNoOnMachine": "15",
+          "#text": "G3X_TrgHldDly"
+        },
+        {
+          "-name": "HD Reverb",
+          "-EfxNoOnMachine": "105",
+          "#text": "G3X_HD_Reverb"
+        },
+        {
+          "-name": "Hall",
+          "-EfxNoOnMachine": "60",
+          "#text": "G3X_Hall"
+        },
+        {
+          "-name": "Room",
+          "-EfxNoOnMachine": "61",
+          "#text": "G3X_Room"
+        },
+        {
+          "-name": "TiledRoom",
+          "-EfxNoOnMachine": "62",
+          "#text": "G3X_TiledRoom"
+        },
+        {
+          "-name": "Spring",
+          "-EfxNoOnMachine": "63",
+          "#text": "G3X_Spring"
+        },
+        {
+          "-name": "Arena",
+          "-EfxNoOnMachine": "64",
+          "#text": "G3X_Arena"
+        },
+        {
+          "-name": "EarlyRef",
+          "-EfxNoOnMachine": "65",
+          "#text": "G3X_EarlyRef"
+        },
+        {
+          "-name": "Air",
+          "-EfxNoOnMachine": "66",
+          "#text": "G3X_Air"
+        },
+        {
+          "-name": "Comp+OD",
+          "-EfxNoOnMachine": "22",
+          "#text": "G3X_Comp+OD"
+        },
+        {
+          "-name": "Comp+Phsr",
+          "-EfxNoOnMachine": "19",
+          "#text": "G3X_Comp+Phsr"
+        },
+        {
+          "-name": "Comp+AWah",
+          "-EfxNoOnMachine": "20",
+          "#text": "G3X_Comp+AWah"
+        },
+        {
+          "-name": "Cho+Dly",
+          "-EfxNoOnMachine": "16",
+          "#text": "G3X_Cho+Dly"
+        },
+        {
+          "-name": "Dly+Rev",
+          "-EfxNoOnMachine": "18",
+          "#text": "G3X_Dly+Rev"
+        },
+        {
+          "-name": "Cho+Rev",
+          "-EfxNoOnMachine": "17",
+          "#text": "G3X_Cho+Rev"
+        },
+        {
+          "-name": "FLG+VCho",
+          "-EfxNoOnMachine": "21",
+          "#text": "G3X_V_Cho+Flg"
+        },
+        {
+          "-name": "PedalVx",
+          "-EfxNoOnMachine": "67",
+          "#text": "G3X_PedalVox"
+        },
+        {
+          "-name": "PedalCry",
+          "-EfxNoOnMachine": "68",
+          "#text": "G3X_PedalCry"
+        },
+        {
+          "-name": "TheVibe",
+          "-EfxNoOnMachine": "1",
+          "#text": "G3X_TheVibe"
+        },
+        {
+          "-name": "PDL Pitch",
+          "-EfxNoOnMachine": "69",
+          "#text": "G3X_PedalPitch"
+        },
+        {
+          "-name": "PDL MnPit",
+          "-EfxNoOnMachine": "70",
+          "#text": "G3X_PdlMnPit"
+        },
+        {
+          "-name": "None",
+          "-EfxNoOnMachine": "107",
+          "-IsTHRU": "1",
+          "-IsDefaultEfx": "1",
+          "#text": "G3X_None"
+        },
+        {
+          "-name": "Unknown",
+          "-NotVisibleToTypeChg": "1",
+          "#text": "G3X_Unknown"
+        }
+      ]
+    },
+    "UNIT6": {
+      "Type": [
+        {
+          "-name": "COMP",
+          "-EfxNoOnMachine": "23",
+          "#text": "G3X_Compressor"
+        },
+        {
+          "-name": "RackComp",
+          "-EfxNoOnMachine": "24",
+          "#text": "G3X_Rack_Comp"
+        },
+        {
+          "-name": "M Comp",
+          "-EfxNoOnMachine": "25",
+          "#text": "G3X_M_Comp"
+        },
+        {
+          "-name": "SlowATTCK",
+          "-EfxNoOnMachine": "26",
+          "#text": "G3X_SlowAttack"
+        },
+        {
+          "-name": "ZNR",
+          "-EfxNoOnMachine": "27",
+          "#text": "G3X_ZNR"
+        },
+        {
+          "-name": "NoiseGate",
+          "-EfxNoOnMachine": "28",
+          "#text": "G3X_NoiseGate"
+        },
+        {
+          "-name": "DirtyGate",
+          "-EfxNoOnMachine": "29",
+          "#text": "G3X_DirtyGate"
+        },
+        {
+          "-name": "GraphicEQ",
+          "-EfxNoOnMachine": "30",
+          "#text": "G3X_GraphicEQ"
+        },
+        {
+          "-name": "ParaEQ",
+          "-EfxNoOnMachine": "31",
+          "#text": "G3X_ParaEQ"
+        },
+        {
+          "-name": "CombFLTR",
+          "-EfxNoOnMachine": "32",
+          "#text": "G3X_CombFilter"
+        },
+        {
+          "-name": "AutoWah",
+          "-EfxNoOnMachine": "33",
+          "#text": "G3X_Autowah"
+        },
+        {
+          "-name": "Resonance",
+          "-EfxNoOnMachine": "34",
+          "#text": "G3X_Auto_Resonance_Filter"
+        },
+        {
+          "-name": "Cry",
+          "-EfxNoOnMachine": "36",
+          "#text": "G3X_Cry"
+        },
+        {
+          "-name": "M-Filter",
+          "-EfxNoOnMachine": "0",
+          "#text": "G3X_M_Filter"
+        },
+        {
+          "-name": "Step",
+          "-EfxNoOnMachine": "35",
+          "#text": "G3X_Step"
+        },
+        {
+          "-name": "SeqFLTR",
+          "-EfxNoOnMachine": "12",
+          "#text": "G3X_SeqFltr"
+        },
+        {
+          "-name": "RndmFLTR",
+          "-EfxNoOnMachine": "13",
+          "#text": "G3X_RndmFltr"
+        },
+        {
+          "-name": "Booster",
+          "-EfxNoOnMachine": "71",
+          "#text": "G3X_Booster"
+        },
+        {
+          "-name": "OverDrive",
+          "-EfxNoOnMachine": "72",
+          "#text": "G3X_OverDrive"
+        },
+        {
+          "-name": "T Scream",
+          "-EfxNoOnMachine": "73",
+          "#text": "G3X_T_SCREAM"
+        },
+        {
+          "-name": "Governor",
+          "-EfxNoOnMachine": "74",
+          "#text": "G3X_Governor"
+        },
+        {
+          "-name": "Dist+",
+          "-EfxNoOnMachine": "75",
+          "#text": "G3X_Dist+"
+        },
+        {
+          "-name": "Dist 1",
+          "-EfxNoOnMachine": "76",
+          "#text": "G3X_Dist1"
+        },
+        {
+          "-name": "Squeak",
+          "-EfxNoOnMachine": "77",
+          "#text": "G3X_SQUEAK"
+        },
+        {
+          "-name": "FuzzSmile",
+          "-EfxNoOnMachine": "78",
+          "#text": "G3X_FuzzSmile"
+        },
+        {
+          "-name": "GreatMuff",
+          "-EfxNoOnMachine": "79",
+          "#text": "G3X_GreatMuff"
+        },
+        {
+          "-name": "MetalWRLD",
+          "-EfxNoOnMachine": "80",
+          "#text": "G3X_MetalWorld"
+        },
+        {
+          "-name": "HotBox",
+          "-EfxNoOnMachine": "81",
+          "#text": "G3X_HotBox"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Clean",
+          "-EfxNoOnMachine": "86",
+          "#text": "G3X_Z_CLEAN"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z MP1",
+          "-EfxNoOnMachine": "87",
+          "#text": "G3X_Z_MP1"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Bottom",
+          "-EfxNoOnMachine": "88",
+          "#text": "G3X_Z_BOTTOM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Dream",
+          "-EfxNoOnMachine": "89",
+          "#text": "G3X_Z_DREAM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Scream",
+          "-EfxNoOnMachine": "90",
+          "#text": "G3X_Z_SCREAM"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Neos",
+          "-EfxNoOnMachine": "91",
+          "#text": "G3X_Z_NEOS"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Z Wild",
+          "-EfxNoOnMachine": "82",
+          "#text": "G3X_Z_WILD"
+        },
+        {
+          "-modeling": "1",
+          "-name": "Lead",
+          "-EfxNoOnMachine": "83",
+          "#text": "G3X_Lead"
+        },
+        {
+          "-modeling": "1",
+          "-name": "ExtremeDS",
+          "-EfxNoOnMachine": "84",
+          "#text": "G3X_ExtremeDS"
+        },
+        {
+          "-name": "Aco.Sim",
+          "-EfxNoOnMachine": "85",
+          "#text": "G3X_AcoSim"
+        },
+        {
+          "-modeling": "1",
+          "-name": "FD COMBO",
+          "-EfxNoOnMachine": "92",
+          "#text": "G3X_FD_Combo"
+        },
+        {
+          "-modeling": "1",
+          "-name": "DELUXE-R",
+          "-EfxNoOnMachine": "111",
+          "#text": "G3X_DELUXE-R"
+        },
+        {
+          "-modeling": "1",
+          "-name": "FD VIBRO",
+          "-EfxNoOnMachine": "104",
+          "#text": "G3X_FD_Vibro"
+        },
+        {
+          "-modeling": "1",
+          "-name": "US BLUES",
+          "-EfxNoOnMachine": "94",
+          "#text": "G3X_US_Blues"
+        },
+        {
+          "-modeling": "1",
+          "-name": "VX COMBO",
+          "-EfxNoOnMachine": "93",
+          "#text": "G3X_VX_Combo"
+        },
+        {
+          "-modeling": "1",
+          "-name": "VX JMI",
+          "-EfxNoOnMachine": "116",
+          "#text": "G3X_VX_JMI"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BG CRUNCH",
+          "-EfxNoOnMachine": "95",
+          "#text": "G3X_BG_Crunch"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MATCH 30",
+          "-EfxNoOnMachine": "103",
+          "#text": "G3X_Match_30"
+        },
+        {
+          "-modeling": "1",
+          "-name": "CAR DRIVE",
+          "-EfxNoOnMachine": "114",
+          "#text": "G3X_CAR_DRIVE"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TW ROCK",
+          "-EfxNoOnMachine": "102",
+          "#text": "G3X_TW_Rock"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TONE CITY",
+          "-EfxNoOnMachine": "108",
+          "#text": "G3X_TONE_CITY"
+        },
+        {
+          "-modeling": "1",
+          "-name": "HW STACK",
+          "-EfxNoOnMachine": "96",
+          "#text": "G3X_HW_Stack"
+        },
+        {
+          "-modeling": "1",
+          "-name": "TANGERINE",
+          "-EfxNoOnMachine": "97",
+          "#text": "G3X_Tangerine"
+        },
+        {
+          "-modeling": "1",
+          "-name": "B-BREAKER",
+          "-EfxNoOnMachine": "109",
+          "#text": "G3X_B-BREAKER"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS CRUNCH",
+          "-EfxNoOnMachine": "98",
+          "#text": "G3X_MS_CRUNCH"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS 1959",
+          "-EfxNoOnMachine": "115",
+          "#text": "G3X_MS_1959"
+        },
+        {
+          "-modeling": "1",
+          "-name": "MS DRIVE",
+          "-EfxNoOnMachine": "99",
+          "#text": "G3X_MS_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BGN DRIVE",
+          "-EfxNoOnMachine": "110",
+          "#text": "G3X_BGN_DRV"
+        },
+        {
+          "-modeling": "1",
+          "-name": "BG DRIVE",
+          "-EfxNoOnMachine": "100",
+          "#text": "G3X_BG_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "DZ DRIVE",
+          "-EfxNoOnMachine": "101",
+          "#text": "G3X_DZ_Drive"
+        },
+        {
+          "-modeling": "1",
+          "-name": "ALIEN",
+          "-EfxNoOnMachine": "112",
+          "#text": "G3X_ALIEN"
+        },
+        {
+          "-modeling": "1",
+          "-name": "REVO-1",
+          "-EfxNoOnMachine": "113",
+          "#text": "G3X_REVO-1"
+        },
+        {
+          "-name": "Tremolo",
+          "-EfxNoOnMachine": "38",
+          "#text": "G3X_Tremolo"
+        },
+        {
+          "-name": "Slicer",
+          "-EfxNoOnMachine": "3",
+          "#text": "G3X_Slicer"
+        },
+        {
+          "-name": "Phaser",
+          "-EfxNoOnMachine": "39",
+          "#text": "G3X_Phaser"
+        },
+        {
+          "-name": "DuoPhase",
+          "-EfxNoOnMachine": "10",
+          "#text": "G3X_Duo_Phase"
+        },
+        {
+          "-name": "WarpPhase",
+          "-EfxNoOnMachine": "14",
+          "#text": "G3X_Warp_Phase"
+        },
+        {
+          "-name": "Chorus",
+          "-EfxNoOnMachine": "41",
+          "#text": "G3X_Chorus"
+        },
+        {
+          "-name": "Detune",
+          "-EfxNoOnMachine": "42",
+          "#text": "G3X_Detune"
+        },
+        {
+          "-name": "VintageCE",
+          "-EfxNoOnMachine": "43",
+          "#text": "G3X_VintageCho"
+        },
+        {
+          "-name": "StereoCho",
+          "-EfxNoOnMachine": "44",
+          "#text": "G3X_StereoCho"
+        },
+        {
+          "-name": "Ensemble",
+          "-EfxNoOnMachine": "45",
+          "#text": "G3X_Ensemble"
+        },
+        {
+          "-name": "VinFLNGR",
+          "-EfxNoOnMachine": "46",
+          "#text": "G3X_VinFlanger"
+        },
+        {
+          "-name": "Flanger",
+          "-EfxNoOnMachine": "106",
+          "#text": "G3X_Flanger"
+        },
+        {
+          "-name": "DynaFLNGR",
+          "-EfxNoOnMachine": "47",
+          "#text": "G3X_DynamicFLG"
+        },
+        {
+          "-name": "Vibrato",
+          "-EfxNoOnMachine": "48",
+          "#text": "G3X_Vibrato"
+        },
+        {
+          "-name": "Octave",
+          "-EfxNoOnMachine": "37",
+          "#text": "G3X_Octave"
+        },
+        {
+          "-name": "PitchSHFT",
+          "-EfxNoOnMachine": "49",
+          "#text": "G3X_PitchShift"
+        },
+        {
+          "-name": "MonoPitch",
+          "-EfxNoOnMachine": "51",
+          "#text": "G3X_MonoPitch"
+        },
+        {
+          "-name": "HPS",
+          "-EfxNoOnMachine": "52",
+          "#text": "G3X_HPS"
+        },
+        {
+          "-name": "BendCho",
+          "-EfxNoOnMachine": "50",
+          "#text": "G3X_BendCho"
+        },
+        {
+          "-name": "RingMod",
+          "-EfxNoOnMachine": "40",
+          "#text": "G3X_RingMod"
+        },
+        {
+          "-name": "BitCrush",
+          "-EfxNoOnMachine": "8",
+          "#text": "G3X_BitCrush"
+        },
+        {
+          "-name": "Bomber",
+          "-EfxNoOnMachine": "9",
+          "#text": "G3X_Bomber"
+        },
+        {
+          "-name": "MonoSynth",
+          "-EfxNoOnMachine": "11",
+          "#text": "G3X_MonoSynth"
+        },
+        {
+          "-name": "Z-Organ",
+          "-EfxNoOnMachine": "2",
+          "#text": "G3X_Z_Organ"
+        },
+        {
+          "-name": "Delay",
+          "-EfxNoOnMachine": "53",
+          "#text": "G3X_Delay"
+        },
+        {
+          "-name": "TapeEcho",
+          "-EfxNoOnMachine": "54",
+          "#text": "G3X_TapeEcho"
+        },
+        {
+          "-name": "ModDelay",
+          "-EfxNoOnMachine": "55",
+          "#text": "G3X_ModDelay"
+        },
+        {
+          "-name": "AnalogDly",
+          "-EfxNoOnMachine": "56",
+          "#text": "G3X_AnalogDelay"
+        },
+        {
+          "-name": "ReverseDL",
+          "-EfxNoOnMachine": "57",
+          "#text": "G3X_Reverse"
+        },
+        {
+          "-name": "MultiTapD",
+          "-EfxNoOnMachine": "58",
+          "#text": "G3X_MultiTapDL"
+        },
+        {
+          "-name": "DynaDelay",
+          "-EfxNoOnMachine": "59",
+          "#text": "G3X_DynamicDLY"
+        },
+        {
+          "-name": "FilterDly",
+          "-EfxNoOnMachine": "5",
+          "#text": "G3X_FilterDly"
+        },
+        {
+          "-name": "PitchDly",
+          "-EfxNoOnMachine": "6",
+          "#text": "G3X_PitchDly"
+        },
+        {
+          "-name": "StereoDly",
+          "-EfxNoOnMachine": "7",
+          "#text": "G3X_StereoDly"
+        },
+        {
+          "-name": "PhaseDly",
+          "-EfxNoOnMachine": "4",
+          "#text": "G3X_Pha_Dly"
+        },
+        {
+          "-name": "TrgHldDly",
+          "-EfxNoOnMachine": "15",
+          "#text": "G3X_TrgHldDly"
+        },
+        {
+          "-name": "HD Reverb",
+          "-EfxNoOnMachine": "105",
+          "#text": "G3X_HD_Reverb"
+        },
+        {
+          "-name": "Hall",
+          "-EfxNoOnMachine": "60",
+          "#text": "G3X_Hall"
+        },
+        {
+          "-name": "Room",
+          "-EfxNoOnMachine": "61",
+          "#text": "G3X_Room"
+        },
+        {
+          "-name": "TiledRoom",
+          "-EfxNoOnMachine": "62",
+          "#text": "G3X_TiledRoom"
+        },
+        {
+          "-name": "Spring",
+          "-EfxNoOnMachine": "63",
+          "#text": "G3X_Spring"
+        },
+        {
+          "-name": "Arena",
+          "-EfxNoOnMachine": "64",
+          "#text": "G3X_Arena"
+        },
+        {
+          "-name": "EarlyRef",
+          "-EfxNoOnMachine": "65",
+          "#text": "G3X_EarlyRef"
+        },
+        {
+          "-name": "Air",
+          "-EfxNoOnMachine": "66",
+          "#text": "G3X_Air"
+        },
+        {
+          "-name": "Comp+OD",
+          "-EfxNoOnMachine": "22",
+          "#text": "G3X_Comp+OD"
+        },
+        {
+          "-name": "Comp+Phsr",
+          "-EfxNoOnMachine": "19",
+          "#text": "G3X_Comp+Phsr"
+        },
+        {
+          "-name": "Comp+AWah",
+          "-EfxNoOnMachine": "20",
+          "#text": "G3X_Comp+AWah"
+        },
+        {
+          "-name": "Cho+Dly",
+          "-EfxNoOnMachine": "16",
+          "#text": "G3X_Cho+Dly"
+        },
+        {
+          "-name": "Dly+Rev",
+          "-EfxNoOnMachine": "18",
+          "#text": "G3X_Dly+Rev"
+        },
+        {
+          "-name": "Cho+Rev",
+          "-EfxNoOnMachine": "17",
+          "#text": "G3X_Cho+Rev"
+        },
+        {
+          "-name": "FLG+VCho",
+          "-EfxNoOnMachine": "21",
+          "#text": "G3X_V_Cho+Flg"
+        },
+        {
+          "-name": "PedalVx",
+          "-EfxNoOnMachine": "67",
+          "#text": "G3X_PedalVox"
+        },
+        {
+          "-name": "PedalCry",
+          "-EfxNoOnMachine": "68",
+          "#text": "G3X_PedalCry"
+        },
+        {
+          "-name": "TheVibe",
+          "-EfxNoOnMachine": "1",
+          "#text": "G3X_TheVibe"
+        },
+        {
+          "-name": "PDL Pitch",
+          "-EfxNoOnMachine": "69",
+          "#text": "G3X_PedalPitch"
+        },
+        {
+          "-name": "PDL MnPit",
+          "-EfxNoOnMachine": "70",
+          "#text": "G3X_PdlMnPit"
+        },
+        {
+          "-name": "None",
+          "-EfxNoOnMachine": "107",
+          "-IsTHRU": "1",
+          "-IsDefaultEfx": "1",
+          "#text": "G3X_None"
+        },
+        {
+          "-name": "Unknown",
+          "-NotVisibleToTypeChg": "1",
+          "#text": "G3X_Unknown"
+        }
+      ]
+    },
+    "FS": {
+      "Type": [
+        {
+          "-name": "OFF",
+          "#text": "G3X_FS_OFF"
+        },
+        {
+          "-name": "UNIT1",
+          "#text": "G3X_FS_UNIT1"
+        },
+        {
+          "-name": "UNIT2",
+          "#text": "G3X_FS_UNIT2"
+        },
+        {
+          "-name": "UNIT3",
+          "#text": "G3X_FS_UNIT3"
+        },
+        {
+          "-name": "UNIT4",
+          "#text": "G3X_FS_UNIT4"
+        },
+        {
+          "-name": "UNIT5",
+          "#text": "G3X_FS_UNIT5"
+        },
+        {
+          "-name": "UNIT6",
+          "#text": "G3X_FS_UNIT6"
+        },
+        {
+          "-name": "TAP TEMPO",
+          "#text": "G3X_FS_TAP_TEMPO"
+        },
+        {
+          "-name": "BYPAS-MUTE",
+          "#text": "G3X_FS_BYPAS_MUTE"
+        }
+      ]
+    },
+    "FP": {
+      "Type": [
+        {
+          "-name": "OFF",
+          "#text": "G3X_FP_OFF"
+        },
+        {
+          "-name": "UNIT1",
+          "#text": "G3X_FP_UNIT1"
+        },
+        {
+          "-name": "UNIT2",
+          "#text": "G3X_FP_UNIT2"
+        },
+        {
+          "-name": "UNIT3",
+          "#text": "G3X_FP_UNIT3"
+        },
+        {
+          "-name": "UNIT4",
+          "#text": "G3X_FP_UNIT4"
+        },
+        {
+          "-name": "UNIT5",
+          "#text": "G3X_FP_UNIT5"
+        },
+        {
+          "-name": "UNIT6",
+          "#text": "G3X_FP_UNIT6"
+        },
+        {
+          "-name": "AUTO ASSIGN",
+          "#text": "G3X_FP_AUTO_ASSIGN"
+        },
+        {
+          "-name": "INPUT VOLUME",
+          "#text": "G3X_FP_INPUT_VOLUME"
+        },
+        {
+          "-name": "OUTPUT VOLUME",
+          "#text": "G3X_FP_OUTPUT_VOLUME"
+        }
+      ]
+    }
+  }
+}
