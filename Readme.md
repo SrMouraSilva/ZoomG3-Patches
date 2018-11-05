@@ -5,7 +5,8 @@
 1. Create virtualenv ```python3 -m venv venv```
 1. Start virtualenv ```source venv/bin/activate```
 1. Install dependencies ```python setup.py develop```
-1. Maybe requires ```
+1. Maybe requires
+```
 sudo apt-get update -y
 sudo apt-get install -y python3-dev
 sudo apt-get install -y libxml2-dev libxslt1-dev
