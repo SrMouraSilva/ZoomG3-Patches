@@ -1,4 +1,6 @@
-# Zoom G3 Audio Plugins Presets
+# Zoom G3 Patches
+
+Scripts to obtain Zoom G3 patches
 
 ## Steps
 
@@ -20,5 +22,6 @@ sudo apt install bsdtar
 
 1. ```jupyter notebook```
 1. (Optinal) Open and execute all: ```Processing_data_1_-_audio_plugins.ipynb```
-1. Open and execute all steps: ```Processing_data_2_-_Collect_pedalboards_data.ipynb```
-1. Open and execute all steps: ``Processing_data_3_-_Bag_of_plugins.ipynb```
+1. Open and execute all steps: ```Processing_data_2_-_Collect_patches_data.ipynb```
+1. Open and execute all steps: ```Processing_data_3_-_data_transformations```
+1. Open and execute all steps: ```Processing_data_3_-_Bag_of_plugins.ipynb```

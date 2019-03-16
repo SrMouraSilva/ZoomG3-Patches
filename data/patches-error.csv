@@ -4,6 +4,7 @@ id,error
 7976,Unknown format: jpg
 8447,Unknown format: g5p
 9416,Unknown format: g5a
+9504,'content-disposition'
 9592,"no element found: line 1, column 0"
 9876,"reference to invalid character number: line 4, column 1499"
 10190,Unknown format: xml
@@ -15,3 +16,4 @@ id,error
 10777,Unknown format: zptc
 10778,Unknown format: zptc
 10779,Unknown format: zptc
+11001,"byte indices must be integers or slices, not str"
