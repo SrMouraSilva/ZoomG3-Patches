@@ -1,4 +1,4 @@
-# Zoom G3 Patches
+# Zoom G3 Patches - 2019 edition
 
 **Zoom G3 Patches** is [a dataset that contains **2161 unique patches** from the Zoom G3 device](data/patches-filtered.csv) (image on right).
 <img alt="Zoom G3 equipment" align="right" width="100" src="readmedata/zoom_g3.jpg" />
